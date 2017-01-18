@@ -6,57 +6,67 @@ msgstr ""
 "PO-Revision-Date: 2016-09-04 15:03+0000\n"
 "Last-Translator: Naofumi Fukue <naofum@gmail.com>\n"
 "Language-Team: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-01-18 10:56+0000\n"
 "X-Generator: Launchpad (build 18302)\n"
-"Language: ja\n"
+"X-Launchpad-Export-Date: 2017-01-18 10:56+0000\n"
 
+# (pofilter) startpunc: Different punctuation at the start
 #. put here the language tag ("fr" for French, "ja" for Japanese, etc)
 msgctxt ":langtag"
 msgid ":langtag"
 msgstr "ja"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 #. put here the language name ("French", "Japanese", etc)
 msgctxt ":langname"
 msgid ":langname"
 msgstr "Japanese"
 
-msgctxt "1_product"
-msgid "1 product"
-msgstr "1 製品"
-
-msgctxt "_and_"
-msgid " and "
-msgstr " および "
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "about"
 msgid "About me"
 msgstr "私について"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "add"
 msgid "Add"
 msgstr "追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "add_language"
 msgid "Add language"
 msgstr "言語を追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "add_product"
 msgid "Add a product"
 msgstr "製品を追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "add_user"
 msgid "Register"
 msgstr "登録"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
 msgctxt "add_user_confirm"
 msgid ""
 "<p>Thanks for joining. You can now sign-in on the site to add and edit "
 "products.</p>"
 msgstr "<p>ご参加ありがとうございます。サイトにサインインして、製品を追加および編集することができます。</p>"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) newlines: Different line endings
 msgctxt "add_user_email_body"
 msgid ""
 "Hello <NAME>,\n"
@@ -112,72 +122,83 @@ msgstr ""
 "http://openfoodfacts.org\n"
 "http://twitter.com/OpenFoodFacts\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "add_user_email_subject"
 msgid "Thanks for joining <<site_name>>"
 msgstr "<<site_name>> にご参加ありがとうございます"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "additives_1"
 msgid "Potentially hazardous food additive. Limit usage."
 msgstr "潜在的に危険な食品添加物。使用を制限します。"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "additives_2"
 msgid "Hazardous food additive. Avoid."
 msgstr "危険な食品添加物。 避けてください。"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "additives_3"
 msgid "Food additive banned in Europe. Avoid at all cost."
 msgstr "ヨーロッパで禁止されている食品添加物。できる限り避けてください。"
 
-msgctxt "additives_p"
-msgid "additives"
-msgstr "添加物"
-
-msgctxt "additives_s"
-msgid "additive"
-msgstr "添加物"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "advanced_search"
 msgid "Advanced search"
 msgstr "高度な検索"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "advanced_search_old"
 msgid "Advanced search and graphs"
 msgstr "高度な検索とグラフ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "alcohol_warning"
 msgid "Excess drinking is harmful for health."
 msgstr "過剰な飲酒は健康を害します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "all_missions"
 msgid "All missions"
 msgstr "すべてのミッション"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "allergens"
 msgid "Substances or products causing allergies or intolerances"
 msgstr "食餌性アレルゲン"
 
-msgctxt "allergens_p"
-msgid "allergens"
-msgstr "アレルゲン"
-
-msgctxt "allergens_s"
-msgid "allergen"
-msgstr "アレルゲン"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "also_edited_by"
 msgid "Product page also edited by"
 msgstr "製品ページの編集者"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_apk_app_badge"
 msgid ""
 "<img src=\"/images/misc/android-apk.112x40.png\" alt=\"Android APK\" />"
 msgstr ""
 "<img src=\"/images/misc/android-apk.112x40.png\" alt=\"Android APK\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_apk_app_link"
 msgid "http://world.openfoodfacts.org/files/off.apk"
 msgstr "http://world.openfoodfacts.org/files/off.apk"
 
+# (pofilter) xmltags: Different XML tags
 msgctxt "android_app_badge"
 msgid ""
 "<img src=\"/images/misc/android-app-on-google-play-"
@@ -188,12 +209,14 @@ msgstr ""
 "en_app_rgb_wo_135x47.png\" alt=\"Google Play で利用できます\" width=\"135\" "
 "height=\"47\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_app_link"
 msgid ""
 "https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner"
 msgstr ""
 "https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner"
 
+# (pofilter) puncspacing: Different spacing around punctuation
 msgctxt "app_please_take_pictures"
 msgid ""
 "<p>This product is not yet in the <<site_name>> database. Could you please "
@@ -207,36 +230,53 @@ msgstr ""
 "に追加していただけませんか?</p>\n"
 "<p>前もって感謝します!</p>\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "app_take_a_picture"
 msgid "Take a picture"
 msgstr "写真を撮ります"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "app_take_a_picture_note"
 msgid ""
 "Note: the pictures you send are published under the free licence Creative "
 "Commons Attribution and ShareAlike."
 msgstr "注意: あなたが送信した画像はフリーライセンスクリエイティブコモンズの帰属と許諾条件の下で公開されます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "app_you_can_add_pictures"
 msgid "You can add pictures:"
 msgstr "あなたは写真を追加することができます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "axis_x"
 msgid "Horizontal axis"
 msgstr "横軸"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "axis_y"
 msgid "Vertical axis"
 msgstr "縦軸"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "barcode"
 msgid "Barcode"
 msgstr "バーコード"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "barcode_number"
 msgid "Barcode number:"
 msgstr "バーコード番号:"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) simplecaps: Different capitalization
 msgctxt "bottom_content"
 msgid ""
 "<a href=\"http://fr.openfoodfacts.org/mission/releveur-d-empreintes\">\n"
@@ -253,124 +293,120 @@ msgstr ""
 "<p>製品を追加して <<site_name>> に貢献、\n"
 "<a href=\"/missions\">ミッション</a> を遂行してスターを獲得しましょう!</p>\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "bottom_title"
 msgid "Embrace the mission"
 msgstr "ミッションを受け入れます"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "brands"
 msgid "Brands"
 msgstr "ブランド"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "brands_example"
 msgid "Kinder Bueno White, Kinder Bueno, Kinder, Ferrero"
 msgstr "キンダーブエノホワイト、キンダーブエノ、キンダー、フェレロ"
 
-msgctxt "brands_p"
-msgid "brands"
-msgstr "ブランド"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "brands_products"
 msgid "Products from the %s brand"
 msgstr "%s ブランドの製品"
 
-msgctxt "brands_s"
-msgid "brand"
-msgstr "ブランド"
-
-msgctxt "brands_tagsinput"
-msgid "add a brand"
-msgstr "ブランドを追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "brands_without_products"
 msgid "Products not from the %s brand"
 msgstr "%s ブランドではない製品"
 
-msgctxt "by"
-msgid "by"
-msgstr "によって"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "categories"
 msgid "Categories"
 msgstr "カテゴリー"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "categories_example"
 msgid "Sardines in olive oil, Orange juice from concentrate"
 msgstr "オリーブオイルサーディン、濃縮還元オレンジジュース"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "categories_note"
 msgid ""
 "Indicate only the most specific category. \"Parents\" categories will be "
 "automatically added."
 msgstr "最も具体的なカテゴリーのみを指定します。 \"親\"カテゴリーが自動的に追加されます。"
 
-msgctxt "categories_p"
-msgid "categories"
-msgstr "カテゴリー"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "categories_products"
 msgid "Products from the %s category"
 msgstr "%s カテゴリーの製品"
 
-msgctxt "categories_s"
-msgid "category"
-msgstr "カテゴリー"
-
-msgctxt "categories_tagsinput"
-msgid "add a category"
-msgstr "カテゴリーを追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "categories_without_products"
 msgid "Products not from the %s category"
 msgstr "%s カテゴリーではない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "change_fields"
 msgid "Data"
 msgstr "データ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "change_nutriments"
 msgid "Nutriments"
 msgstr "栄養素"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "change_selected_images"
 msgid "Selected images"
 msgstr "選択した画像"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "change_uploaded_images"
 msgid "Uploaded images"
 msgstr "アップロードした画像"
 
-msgctxt "checkers_p"
-msgid "checkers"
-msgstr "確認者"
-
-msgctxt "checkers_s"
-msgid "checker"
-msgstr "確認者"
-
-msgctxt "cities_p"
-msgid "packaging cities"
-msgstr "包装した市区町村"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "cities_products"
 msgid "Products packaged in the city of %s"
 msgstr "製品を包装した %s の市区町村"
 
-msgctxt "cities_s"
-msgid "packaging city"
-msgstr "包装した市区町村"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "cities_without_products"
 msgid "Products not packaged in the city of %s"
 msgstr "製品は %s の市区町村で包装していません"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "codes_p"
 msgid "Codes"
 msgstr "コー​​ド"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "codes_s"
 msgid "Code"
 msgstr "コー​​ド"
 
+# (pofilter) xmltags: Different XML tags
 msgctxt "column_obsolete_do_not_translate_for_reference_only"
 msgid ""
 "<a href=\"/\"><img id=\"logo\" src=\"/images/misc/openfoodfacts-logo-"
@@ -483,220 +519,240 @@ msgstr ""
 "\n"
 "\n"
 
+# (pofilter) startpunc: Different punctuation at the start
 msgctxt "completed_n_missions"
 msgid "completed %d missions:"
 msgstr "%d ミッション完了しました:"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "connected_with_facebook"
 msgid "You are connected with your Facebook account."
 msgstr "あなたの Facebook アカウントで接続しています。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "contributor_since"
 msgid "Contributor since"
 msgstr "貢献開始"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "copy_data"
 msgid "Copy data from current product to new product"
 msgstr "現在の製品から新しい製品にデータをコピーします"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "correct_the_following_errors"
 msgid "Please correct the following errors:"
 msgstr "以下のエラーを修正してください:"
 
-msgctxt "correctors_p"
-msgid "correctors"
-msgstr "修正者"
-
-msgctxt "correctors_s"
-msgid "corrector"
-msgstr "修正者"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "countries"
 msgid "Countries where sold"
 msgstr "販売の国"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "countries_note"
 msgid ""
 "Countries where the product is widely available (non including stores "
 "specialising in foreign products)"
 msgstr "製品が広く入手可能な国 (外国製品に特化した店舗を含まない)"
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "countries_p"
 msgid "countries"
 msgstr "国"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "countries_products"
 msgid "Products sold in %s"
 msgstr "製品は %s で販売されています"
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "countries_s"
 msgid "country"
 msgstr "国"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "countries_without_products"
 msgid "Products not sold in %s"
 msgstr "製品は %s で販売されていません"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "data_source"
 msgid "Data source"
 msgstr "情報元"
 
-msgctxt "debug_p"
-msgid "debug"
-msgstr "デバッグ"
-
-msgctxt "debug_s"
-msgid "debug"
-msgstr "デバッグ"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "delete_comment"
 msgid "Reason for removal"
 msgstr "削除の理由"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "delete_product"
 msgid "Delete a product"
 msgstr "製品を削除"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "delete_product_page"
 msgid "Delete the page"
 msgstr "ページを削除"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "delete_the_images"
 msgid "Delete the images"
 msgstr "画像を削除"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "delete_user"
 msgid "Delete an user"
 msgstr "ユーザーを削除"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "diff_add"
 msgid "Added:"
 msgstr "追加しました:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "diff_change"
 msgid "Changed:"
 msgstr "変更しました:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "diff_delete"
 msgid "Deleted:"
 msgstr "削除："
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ecological_data_table"
 msgid "Ecological footprint"
 msgstr "エコロジカル・フットプリント"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Missing '(', ')'
 msgctxt "ecological_data_table_note"
 msgid ""
 "If the carbon footprint is specified on the label (rarely at this time), "
 "indicate it for the same quantity than the nutritional composition."
 msgstr "カーボンフットプリントが、（まれに現時点で）ラベルに指定されている場合は、栄養組成物よりも、それを同量で示します。"
 
-msgctxt "edit"
-msgid "edit"
-msgstr "編集"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_comment"
 msgid "Changes summary"
 msgstr "変更の概要"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_product"
 msgid "Edit a product"
 msgstr "製品を編集"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_product_page"
 msgid "Edit the page"
 msgstr "ページを編集"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_profile"
 msgid "Edit your public profile"
 msgstr "公開プロフィールを編集"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_profile_confirm"
 msgid "Changes to your public profile have been saved."
 msgstr "公開プロフィールへの変更を保存しました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_profile_msg"
 msgid "Information below is visible in your public profile."
 msgstr "以下の情報は公開プロフィールに表示されます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_settings"
 msgid "Change your account parameters"
 msgstr "アカウントのパラメータを変更"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "edit_user"
 msgid "Account parameters"
 msgstr "アカウント パラメーター"
 
+# (pofilter) simplecaps: Different capitalization
 msgctxt "edit_user_confirm"
 msgid "<p>Your account parameters have been changed.</p>"
 msgstr "<p>アカウントのパラメータを変更しました。</p>"
 
-msgctxt "editors_p"
-msgid "editors"
-msgstr "編集者"
-
-msgctxt "editors_s"
-msgid "editor"
-msgstr "編集者"
-
-msgctxt "email"
-msgid "e-mail address"
-msgstr "メールアドレス"
-
-msgctxt "emb_code_p"
-msgid "EMB codes"
-msgstr "EMBコード"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "emb_code_products"
 msgid "Products packaged by the company with emb code %s"
 msgstr "製品はEMBコード %s の会社で包装されました"
 
-msgctxt "emb_code_s"
-msgid "EMB code"
-msgstr "EMBコード"
-
-msgctxt "emb_codes"
-msgid "EMB code"
-msgstr "EMBコード"
-
-msgctxt "emb_codes_example"
-msgid "EMB code"
-msgstr "EMBコード"
-
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "emb_codes_note"
 msgid ""
 "In Europe, code in an ellipse with the 2 country initials followed by a "
 "number and CE."
 msgstr "ヨーロッパでは、楕円に2桁の国の頭文字のあるコードに、数字およびCEが続きます。"
 
-msgctxt "emb_codes_p"
-msgid "packager codes"
-msgstr "包装者コード"
-
+# (pofilter) simplecaps: Different capitalization
 msgctxt "emb_codes_products"
 msgid "Products with the emb code %s"
 msgstr "EMBコードのある製品 %s"
 
-msgctxt "emb_codes_s"
-msgid "packager code"
-msgstr "包装者コード"
-
+# (pofilter) simplecaps: Different capitalization
 msgctxt "emb_codes_without_products"
 msgid "Products without the emb code %s"
 msgstr "EMBコードのない製品 %s"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "entry_dates_p"
 msgid "Entry dates"
 msgstr "入力日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "entry_dates_s"
 msgid "Entry date"
 msgstr "入力日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error"
 msgid "Error"
 msgstr "エラー"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_bad_login_password"
 msgid ""
 "Incorrect user name or password. <a "
@@ -704,14 +760,24 @@ msgid ""
 msgstr ""
 "ユーザーネームまたはパスワードが違います。 <a href=\"/cgi/reset_password.pl\">パスワードを忘れました?</a>"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_database"
 msgid "An error occured while reading the data, try to refresh the page."
 msgstr "データの読み込み時に、エラーが発生しました。ページを更新してみてください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_different_passwords"
 msgid "The password and confirmation password are different."
 msgstr "パスワードと確認パスワードが異なります。"
 
+# (pofilter) sentencecount: Different number of sentences: 3 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) doublespacing: Different use of double spaces
 msgctxt "error_email_already_in_use"
 msgid ""
 "The e-mail address is already used by another user. Maybe you already have "
@@ -721,103 +787,160 @@ msgstr ""
 "メールアドレスは、すでに別のユーザによって使用されています。おそらく、あなたはすでにアカウントをお持ちではありませんか？あなたのアカウントの <a "
 "href=\"/cgi/reset_password.pl\">パスワードをリセット</a> することができます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_invalid_address"
 msgid "Invalid address."
 msgstr "アドレスが正しくありません"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "error_invalid_csrf_token"
 msgid "Invalid CSRF token."
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_invalid_email"
 msgid "Invalid e-mail address"
 msgstr "メールアドレスが正しくありません"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_invalid_password"
 msgid "The password needs to be a least 6 characters long."
 msgstr "パスワードは6文字以上にする必要があります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_invalid_user"
 msgid "Invalid user."
 msgstr "無効なユーザー。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_invalid_username"
 msgid ""
 "The user name must contain only unaccented letters, digits and dashes."
 msgstr "ユーザー名はアクセントのない文字、数字、ダッシュのみ含めることができます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_new_code_already_exists"
 msgid "A product already exists with the new code"
 msgstr "新しいコードの製品はすでに存在します"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_no_name"
 msgid "You need to enter a name or nickname."
 msgstr "名前またはニックネームを入力する必要があります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_no_permission"
 msgid "Permission denied."
 msgstr "アクセスが拒否されました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_no_username"
 msgid "You need to enter a user name"
 msgstr "ユーザー名を入力する必要があります"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_reset_already_connected"
 msgid "You are already signed in."
 msgstr "すでにサインインしています。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_reset_invalid_token"
 msgid "The reset password link is invalid or has expired."
 msgstr "パスワードリセットのリンクが無効か、有効期限が切れています。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_reset_unknown_email"
 msgid "There is no account with this email"
 msgstr "このメールアドレスのアカウントはありません"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_reset_unknown_id"
 msgid "This username does not exist."
 msgstr "このユーザー名は存在しません。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "error_username_not_available"
 msgid "This username already exists, please choose another."
 msgstr "このユーザー名すでに存在しています。別のものを選択してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "example"
 msgid "Example:"
 msgstr "例:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "examples"
 msgid "Examples:"
 msgstr "例:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "expiration_date"
 msgid "Best before date"
 msgstr "賞味期限"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "expiration_date_note"
 msgid ""
 "The expiration date is a way to track product changes over time and to "
 "identify the most recent version."
 msgstr "有効期限は、時間の経過とともの製品の変更を追跡し、最新バージョンを識別するための方法です。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "explore_products_by"
 msgid "Drilldown into products by..."
 msgstr "...で製品にドリルダウン"
 
-msgctxt "facebook_locale"
-msgid "en_US"
-msgstr "ja_JP"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "facebook_page"
 msgid "https://www.facebook.com/OpenFoodFacts"
 msgstr "https://www.facebook.com/OpenFoodFacts"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "fixme_product"
 msgid ""
 "If the data is incomplete or incorrect, you can complete or correct it by "
 "editing this page."
 msgstr "データが不完全または間違っている場合は、完了するか、このページを編集して、それを修正することができます。"
 
+# (pofilter) brackets: Added '(', ')'
 msgctxt "footer"
 msgid ""
 "<a href=\"http://world.openfoodfacts.org/legal\">Legal</a> -\n"
@@ -838,51 +961,52 @@ msgstr ""
 "<a href=\"http://en.blog.openfoodfacts.org\">ブログ</a> -\n"
 "<a href=\"http://world.openfoodfacts.org/press-and-blogs\">プレスとブログ</a>\n"
 
-msgctxt "footer_and_the_facebook_group"
-msgid ""
-"and the <a "
-"href=\"https://www.facebook.com/groups/374350705955208/\">Facebook group for "
-"contributors</a>"
-msgstr ""
-"および <a href=\"https://www.facebook.com/groups/374350705955208/\">貢献者の "
-"Facebook グループ</a>"
-
-msgctxt "footer_blog"
-msgid "<<site_name>> blog"
-msgstr "<<site_name>> のブログ"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_blog_link"
 msgid "http://en.blog.openfoodfacts.org"
 msgstr "http://en.blog.openfoodfacts.org"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_code_of_conduct"
 msgid "Code of conduct"
 msgstr "行動規範"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_code_of_conduct_link"
 msgid "/code-of-conduct"
 msgstr "/code-of-conduct"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_data"
 msgid "Data"
 msgstr "データ"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_data_link"
 msgid "/data"
 msgstr "/data"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_discover_the_project"
 msgid "Discover the project"
 msgstr "プロジェクトを見つける"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_faq"
 msgid "Frequently asked questions"
 msgstr "よくある質問"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_faq_link"
 msgid "/faq"
 msgstr "/faq"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_follow_us"
 msgid ""
 "Follow us on <a href=\"http://twitter.com/openfoodfacts\">Twitter</a>,\n"
@@ -894,179 +1018,198 @@ msgstr ""
 "<a href=\"https://plus.google.com/u/0/110748322211084668559/\">Google+</a> "
 "でフォローしてください\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_install_the_app"
 msgid "Install the app"
 msgstr "アプリをインストール"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_join_the_community"
 msgid "Join the community"
 msgstr "コミュニティに参加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_join_us_on"
 msgid "Join us on %s:"
 msgstr "ご参加ください %s:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_legal"
 msgid "Legal"
 msgstr "法的事項"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_legal_link"
 msgid "/legal"
 msgstr "/legal"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_press"
 msgid "Press"
 msgstr "プレス"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_press_link"
 msgid "/press"
 msgstr "/press"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_tagline"
 msgid ""
 "A collaborative, free and open database of food products from around the "
 "world."
 msgstr "世界中から食品の、共同のフリーでオープンなデータベース。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_terms"
 msgid "Terms of use"
 msgstr "利用規約"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_terms_link"
 msgid "/terms-of-use"
 msgstr "/terms-of-use"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "footer_who_we_are"
 msgid "Who we are"
 msgstr "私たちについて"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_who_we_are_link"
 msgid "/who-we-are"
 msgstr "/who-we-are"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_wiki"
 msgid "<<site_name>> wiki (en)"
 msgstr "<<site_name>> wiki (en)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_wiki_link"
 msgid "http://en.wiki.openfoodfacts.org"
 msgstr "http://en.wiki.openfoodfacts.org"
 
+# (pofilter) purepunc: Consider not translating punctuation
+# (pofilter) short: The translation is much shorter than the original
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
 msgctxt "for"
 msgid "for"
 msgstr ":"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "front_alt"
 msgid "Product"
 msgstr "製品"
 
+# (pofilter) simplecaps: Different capitalization
 msgctxt "generic_name"
 msgid "Common name"
 msgstr "一般名"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "generic_name_example"
 msgid "Chocolate bar with milk and hazelnuts"
 msgstr "ミルクとヘーゼルナッツ入りチョコレートバー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "goodbye"
 msgid "See you soon!"
 msgstr "また近いうちにお会いしましょう​​！"
 
+# (pofilter) endpunc: Different punctuation at the end
 msgctxt "graph_count"
 msgid ""
 "%d products match the search criterias, of which %i products have defined "
 "values for the graph's axis."
 msgstr "%d の製品が検索条件に一致します。そのうち %i の製品はグラフの軸に定義した値があります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "graph_title"
 msgid "Graph title"
 msgstr "グラフのタイトル"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "graphs_and_maps"
 msgid "Graphs and maps"
 msgstr "グラフと地図"
 
-msgctxt "header"
-msgid ""
-"<meta property=\"fb:admins\" content=\"706410516\" />\n"
-"<meta property=\"og:site_name\" content=\"<<site_name>> - the free and open "
-"food products information database\"/>\n"
-"\n"
-"<script type=\"text/javascript\">\n"
-"  var uvOptions = {};\n"
-"  (function() {\n"
-"\tvar uv = document.createElement('script'); uv.type = 'text/javascript'; "
-"uv.async = true;\n"
-"\tuv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') "
-"+ 'widget.uservoice.com/jQrwafQ94nbEbRWsznm6Q.js';\n"
-"\tvar s = document.getElementsByTagName('script')[0]; "
-"s.parentNode.insertBefore(uv, s);\n"
-"  })();\n"
-"</script>\n"
-"\n"
-"\n"
-msgstr ""
-"<meta property=\"fb:admins\" content=\"706410516\" />\n"
-"<meta property=\"og:site_name\" content=\"<<site_name>> - "
-"フリーでオープンな食品情報のデータベース\"/>\n"
-"\n"
-"<script type=\"text/javascript\">\n"
-"  var uvOptions = {};\n"
-"  (function() {\n"
-"\tvar uv = document.createElement('script'); uv.type = 'text/javascript'; "
-"uv.async = true;\n"
-"\tuv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') "
-"+ 'widget.uservoice.com/jQrwafQ94nbEbRWsznm6Q.js';\n"
-"\tvar s = document.getElementsByTagName('script')[0]; "
-"s.parentNode.insertBefore(uv, s);\n"
-"  })();\n"
-"</script>\n"
-"\n"
-"\n"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "hello"
 msgid "Hello"
 msgstr "こんにちは"
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "high"
 msgid "high"
 msgstr "高"
 
-msgctxt "high_quantity"
-msgid "high quantity"
-msgstr "多量"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "history"
 msgid "Changes history"
 msgstr "変更履歴"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_front"
 msgid "Front picture"
 msgstr "前面の画像"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_ingredients"
 msgid "Ingredients picture"
 msgstr "成分のリストの写真"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_ingredients_note"
 msgid ""
 "If the picture is neat enough, the ingredients can be extracted automatically"
 msgstr "画像が十分にきちんとしている場合、原材料を自動的に抽出することができます"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_nutrition"
 msgid "Nutrition facts picture"
 msgstr "栄養成分表の画像"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_upload_error_image_already_exists"
 msgid "This picture has already been sent."
 msgstr "この写真は、すでに送信済です。"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_upload_error_image_too_small"
 msgid ""
 "The picture is too small. Please do not upload pictures found on the "
 "Internet and only send photos you have taken yourself."
 msgstr "画像が小さすぎます。インターネット上で見つかった写真をアップロードしないでください。あなた自身で撮影した写真のみ送信してください。"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_upload_error_no_barcode_found_in_image_long"
 msgid ""
 "The barcode in the image could not be read, or the image contained no "
@@ -1076,96 +1219,99 @@ msgstr ""
 "画像内のバーコードを読み取ることができないか、画像にバーコードが含まれていません。\n"
 "別の画像で試してみるか、直接バーコードを入力することができます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_upload_error_no_barcode_found_in_image_short"
 msgid "No barcode found in the image."
 msgstr "画像内にバーコードが見つかりません。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "image_upload_error_no_barcode_found_in_text"
 msgid ""
 "You must enter the characters of the barcode or send a product image when "
 "the barcode is visible."
 msgstr "バーコードの文字を入力するか、バーコードが表示されている製品の画像を送信する必要があります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "incomplete_products_you_added"
 msgid "Products you added that need to be completed"
 msgstr "あなたが追加して、完了が必要な製品"
 
-msgctxt "informers_p"
-msgid "informers"
-msgstr "情報提供者"
-
-msgctxt "informers_s"
-msgid "informers"
-msgstr "情報提供者"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients"
 msgid "Ingredients"
 msgstr "材料"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_alt"
 msgid "Ingredients"
 msgstr "材料"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_analysis"
 msgid "Ingredients analysis"
 msgstr "原材料分析"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_analysis_note"
 msgid ""
 "Note: ingredients can be listed with many different names, please let us "
 "know if you think the analysis above is incorrect."
 msgstr "注意: 原材料は、様々な異なった名前で表記されることがあります。上記の分析が間違っていると思う場合はお知らせください。"
 
-msgctxt "ingredients_from_or_that_may_be_from_palm_oil_p"
-msgid "ingredients from or that may be from palm oil"
-msgstr "原材料は、パーム油由来の可能性があります"
-
-msgctxt "ingredients_from_or_that_may_be_from_palm_oil_s"
-msgid "ingredient from or that may be from palm oil"
-msgstr "原材料は、パーム油由来の可能性があります"
-
-msgctxt "ingredients_from_palm_oil_p"
-msgid "ingredients from palm oil"
-msgstr "パーム油由来の原材料"
-
-msgctxt "ingredients_from_palm_oil_s"
-msgid "ingredient from palm oil"
-msgstr "パーム油由来の原材料"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_n_p"
 msgid "Numbers of ingredients"
 msgstr "原材料の数"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_n_s"
 msgid "Number of ingredients"
 msgstr "原材料の数"
 
-msgctxt "ingredients_p"
-msgid "ingredients"
-msgstr "原材料"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_products"
 msgid "Products that contain the ingredient %s"
 msgstr "原材料 %s を含む製品"
 
-msgctxt "ingredients_s"
-msgid "ingredient"
-msgstr "原材料"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_text"
 msgid "Ingredients list"
 msgstr "成分リスト"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Missing '(', ')'
 msgctxt "ingredients_text_display_note"
 msgid "Ingredients are listed in order of importance (quantity)."
 msgstr "成分は重要度（量）の順に表示されます。"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_text_example"
 msgid ""
 "Cereals 85.5% (_wheat_ flour, whole-_wheat_ flour 11%), malt extract, cocoa "
 "4,8%, ascorbic acid"
 msgstr "穀類 85.5% (_小麦粉_, _全粒粉_ 11%), 麦芽エキス, ココア 4.8%, アスコルビン酸"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_text_note"
 msgid ""
 "Keep the order, indicate the % when specified, separate with a comma or - , "
@@ -1174,18 +1320,13 @@ msgid ""
 msgstr ""
 "順序を守り、指定されたときは % を表示し、カンマまたは - で区切り、原材料中の原材料は ( ) を使用、アレルゲンを _ で囲みます 例えば _牛乳_"
 
-msgctxt "ingredients_that_may_be_from_palm_oil_p"
-msgid "ingredients that may be from palm oil"
-msgstr "パーム油由来の可能性がある原材料"
-
-msgctxt "ingredients_that_may_be_from_palm_oil_s"
-msgid "ingredient that may be from palm oil"
-msgstr "パーム油由来の可能性がある原材料"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "ingredients_without_products"
 msgid "Products that do not contain the ingredient %s"
 msgstr "原材料 %s を含まない製品"
 
+# (pofilter) xmltags: Different XML tags
 msgctxt "ios_app_badge"
 msgid ""
 "<img src=\"/images/misc/Available_on_the_App_Store_Badge_EN_135x40.png\" "
@@ -1194,164 +1335,189 @@ msgstr ""
 "<img src=\"/images/misc/Available_on_the_App_Store_Badge_EN_135x40.png\" "
 "alt=\"App Store で利用できます\" width=\"135\" height=\"40\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ios_app_link"
 msgid "https://itunes.apple.com/en/app/open-food-facts/id588797948"
 msgstr "https://itunes.apple.com/en/app/open-food-facts/id588797948"
 
-msgctxt "known_nutrients_p"
-msgid "known nutrients"
-msgstr "既知の栄養成分"
-
-msgctxt "known_nutrients_s"
-msgid "known nutrient"
-msgstr "既知の栄養成分"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "labels"
 msgid "Labels, certifications, awards"
 msgstr "ラベル、認証、表彰"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "labels_example"
 msgid "Organic"
 msgstr "オーガニック"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "labels_note"
 msgid ""
 "Indicate only the most specific labels. \"Parents\" labels will be added "
 "automatically."
 msgstr "最も代表的なラベルのみを指定します。 \"親\" ラベルが自動的に追加されます。"
 
-msgctxt "labels_p"
-msgid "labels"
-msgstr "ラベル"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "labels_products"
 msgid "Products that have the label %s"
 msgstr "ラベル %s のある製品"
 
-msgctxt "labels_s"
-msgid "label"
-msgstr "ラベル"
-
-msgctxt "labels_tagsinput"
-msgid "add a label"
-msgstr "ラベルを追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "labels_without_products"
 msgid "Products that do not have the label %s"
 msgstr "ラベル %s のない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang"
 msgid "Main language"
 msgstr "主な言語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_de"
 msgid "German"
 msgstr "ドイツ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_el"
 msgid "Greek"
 msgstr "ギリシャ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_en"
 msgid "English"
 msgstr "英語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_es"
 msgid "Spanish"
 msgstr "スペイン語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_fr"
 msgid "French"
 msgstr "フランス語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_he"
 msgid "Hebrew"
 msgstr "ヘブライ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_it"
 msgid "Italian"
 msgstr "イタリア語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_ja"
 msgid "Japanese"
 msgstr "日本語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_ko"
 msgid "Korean"
 msgstr "韓国語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_nl"
 msgid "Dutch"
 msgstr "オランダ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_nl_be"
 msgid "Dutch"
 msgstr "オランダ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_note"
 msgid "Language most present and most highlighted on the product"
 msgstr "製品の大部分を占め、最も強調表示された言語"
 
-msgctxt "lang_other"
-msgid "other language"
-msgstr "その他の言語"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_pl"
 msgid "Polish"
 msgstr "ポーランド語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_pt"
 msgid "Portuguese"
 msgstr "ポルトガル語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_ro"
 msgid "Romanian"
 msgstr "ルーマニア語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_ru"
 msgid "Russian"
 msgstr "ロシア語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_th"
 msgid "Thai"
 msgstr "タイ語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_vi"
 msgid "Vietnamese"
 msgstr "ベトナム語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "lang_zh"
 msgid "Chinese"
 msgstr "中国語"
 
-msgctxt "language"
-msgid "en-US"
-msgstr "ja-JP"
-
-msgctxt "languages_p"
-msgid "languages"
-msgstr "言語"
-
-msgctxt "languages_s"
-msgid "language"
-msgstr "言語"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "last_edit_dates_p"
 msgid "Last edit dates"
 msgstr "最後の編集日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "last_edit_dates_s"
 msgid "Last edit date"
 msgstr "最終編集日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "last_image_dates_p"
 msgid "Last picture dates"
 msgstr "最新の写真の日付"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "last_image_dates_s"
 msgid "Last picture date"
 msgstr "最新の写真の日"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "licence_accept"
 msgid ""
 "By adding information, data and/or images, you accept to place irrevocably "
@@ -1372,34 +1538,59 @@ msgstr ""
 "ライセンスの下に、あなたの貢献を取消不能で配置することを受け入れます。\n"
 "あなたが貢献している製品へリンクすることによって再利用ユーザーがクレジットされることを受け入れます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "link"
 msgid "Link to the product page on the official site of the producer"
 msgstr "生産者の公式サイト上の製品ページへのリンク"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "list_of_x"
 msgid "List of %s"
 msgstr "%s一覧"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "loadmore"
 msgid "Load more results"
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_and_add_product"
 msgid "Sign-in and add the product"
 msgstr "サインインして製品を追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_and_edit_product"
 msgid "Sign-in and edit the product"
 msgstr "サインインして製品を編集"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_create_your_account"
 msgid "Create your account."
 msgstr "あなたのアカウントを作成します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_not_registered_yet"
 msgid "Not registered yet?"
 msgstr "まだ登録されていませんか？"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "login_register_content"
 msgid ""
 "<p>Sign-in to add or edit products.</p>\n"
@@ -1420,14 +1611,20 @@ msgid ""
 "account</a>.</p>\n"
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_register_title"
 msgid "Sign-in"
 msgstr "サインイン"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_to_add_and_edit_products"
 msgid "Sign-in to add or edit products."
 msgstr "サインインして製品を追加または編集します。"
 
+# (pofilter) puncspacing: Different spacing around punctuation
 msgctxt "login_to_add_products"
 msgid ""
 "<p>Please sign-in to add or edit a product.</p>\n"
@@ -1440,314 +1637,359 @@ msgstr ""
 "<p>まだ <<site_name>> のアカウントをお持ちでない場合は、<a href=\"/cgi/user.pl\">30 秒で登録</a> "
 "することができます。</p>\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "login_username_email"
 msgid "Username or e-mail address:"
 msgstr "ユーザー名またはメールアドレス："
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "low"
 msgid "low"
 msgstr "低"
 
-msgctxt "low_quantity"
-msgid "low quantity"
-msgstr "少量"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "manage_images"
 msgid "Manage images"
 msgstr "イメージを管理します"
 
+# (pofilter) simplecaps: Different capitalization
 msgctxt "manage_images_info"
 msgid "You can select one or more images and then:"
 msgstr "1 つ以上の画像を選択することができます:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "manufacturing_places"
 msgid "Manufacturing or processing places"
 msgstr "製造または加工の場所"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) acronyms: Consider not translating acronyms: USA
 msgctxt "manufacturing_places_example"
 msgid "Montana, USA"
 msgstr "モンタナ州、アメリカ"
 
-msgctxt "manufacturing_places_p"
-msgid "manufacturing or processing places"
-msgstr "製造または加工の場所"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "manufacturing_places_products"
 msgid "Products manufactured or processed in %s"
 msgstr "%s で製造または加工された製品"
 
-msgctxt "manufacturing_places_s"
-msgid "manufacturing or processing place"
-msgstr "製造または加工の場所"
-
-msgctxt "manufacturing_places_tagsinput"
-msgid "add a place"
-msgstr "場所を追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "manufacturing_places_without_products"
 msgid "Products not manufactured or processed in %s"
 msgstr "%s で製造または加工されていない製品"
 
+# (pofilter) endpunc: Different punctuation at the end
 msgctxt "map_count"
 msgid ""
 "%d products match the search criterias, of which %i products have a known "
 "production place."
 msgstr "%d の製品が検索条件に一致します。そのうち %i の製品は既知の製造場所です。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "map_title"
 msgid "Map title"
 msgstr "地図タイトル"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "menu"
 msgid "Menu"
 msgstr "メニュー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "menu_add_a_product"
 msgid "Add a product"
 msgstr "製品を追加"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_add_a_product_link"
 msgid "/add-a-product"
 msgstr "/add-a-product"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "menu_contribute"
 msgid "Contribute"
 msgstr "貢献する"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_contribute_link"
 msgid "/contribute"
 msgstr "/contribute"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "menu_discover"
 msgid "Discover"
 msgstr "見つける"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_discover_link"
 msgid "/discover"
 msgstr "/discover"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "mission_"
 msgid "Mission: "
 msgstr "ミッション: "
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "mission_accomplished_by"
 msgid "This mission has been completed by:"
 msgstr "このミッションの完了者:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "mission_accomplished_by_n"
 msgid "Completed by %d persons."
 msgstr "%d 人により完了。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "mission_accomplished_by_nobody"
 msgid "Be the first to complete this mission!"
 msgstr "このミッションを完了しよう！"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "mission_goal"
 msgid "Goal:"
 msgstr "ゴール:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "missions"
 msgid "Missions"
 msgstr "ミッション"
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "moderate"
 msgid "moderate"
 msgstr "中"
 
-msgctxt "moderate_quantity"
-msgid "moderate quantity"
-msgstr "適度な量"
-
-msgctxt "months"
-msgid ""
-"['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', "
-"'September', 'October', 'November', 'December']"
-msgstr ""
-"['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月']"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "move_images_to_another_product"
 msgid "Move the images to another product"
 msgstr "別の製品に画像を移動します"
 
-msgctxt "n_products"
-msgid "%d products"
-msgstr "%d 製品"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "name"
 msgid "Name"
 msgstr "名前"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "names"
 msgid "Names"
 msgstr "名前"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "new_code"
 msgid "If the barcode is not correct, please correct it here:"
 msgstr "バーコードが正しくない場合は、ここで修正してください:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "new_code_note"
 msgid ""
 "For products without a barcode, an internal code is automatically set."
 msgstr "バーコードのない製品については、自動的に内部コードが設定されます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "newsletter_description"
 msgid "Subscribe to the newsletter (2 emails per month maximum)"
 msgstr "ニュースレターを購読します (月あたり最大 2 メール)"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "next"
 msgid "Next"
 msgstr "次"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "no_barcode"
 msgid "Product without barcode"
 msgstr "バーコードのない商品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "no_nutrition_data"
 msgid "Nutrition facts are not specified on the product."
 msgstr "栄養成分表が製品に指定されていません。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "no_product_for_barcode"
 msgid "No product listed for barcode %s."
 msgstr "バーコード %s の製品はリストされていません。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "no_products"
 msgid "No products."
 msgstr "製品はありません。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "not_saved"
 msgid "Error while saving, please retry."
 msgstr "保存中にエラー、再試行してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "number_of_additives"
 msgid "Number of additives"
 msgstr "添加物の数"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "number_of_products"
 msgid "Number of products"
 msgstr "製品数"
 
-msgctxt "nutrient_in_quantity"
-msgid "%s in %s"
-msgstr "%s / %s"
-
+# (pofilter) simplecaps: Different capitalization
 msgctxt "nutrient_levels_info"
 msgid "Nutrient levels for 100 g"
 msgstr "100グラムのための栄養レベル"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_levels_link"
 msgid "/nutrient-levels"
 msgstr "/nutrient-levels"
 
-msgctxt "nutrient_levels_p"
-msgid "nutrient levels"
-msgstr "栄養レベル"
-
-msgctxt "nutrient_levels_s"
-msgid "nutrient level"
-msgstr "栄養レベル"
-
-msgctxt "nutriments_p"
-msgid "nutriments"
-msgstr "栄養成分"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutriments_products"
 msgid "Products that contain the nutriment %s"
 msgstr "栄養成分 %s を含む製品"
 
-msgctxt "nutriments_s"
-msgid "nutriment"
-msgstr "栄養成分"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutriments_without_products"
 msgid "Products that do not contain the nutriment %s"
 msgstr "栄養成分 %s を含まない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_alt"
 msgid "Nutrition facts"
 msgstr "栄養成分表"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data"
 msgid "Nutrition facts"
 msgstr "栄養成分表"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) printf: Different printf variable: %s
 msgctxt "nutrition_data_average"
 msgid ""
 "Average nutrition facts for the %d products of the %s category for which "
 "nutrition facts are known (out of %d products)."
 msgstr "既知の栄養成分表の %s カテゴリーの %d 製品の平均栄養成分表 (%d 製品外)。"
 
-msgctxt "nutrition_data_compare_percent"
-msgid "% of difference"
-msgstr "% の差"
-
-msgctxt "nutrition_data_compare_value"
-msgid "value for 100 g / 100 ml"
-msgstr "100 g / 100 ml の値"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_comparison_with_categories"
 msgid "Comparison to average values of products in the same category:"
 msgstr "同じカテゴリーの製品の平均値との比較:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_comparison_with_categories_note"
 msgid ""
 "Please note: for each nutriment, the average is computed for products for "
 "which the nutriment quantity is known, not on all products of the category."
 msgstr "ご注意ください: 各栄養成分に対して、カテゴリーのすべての製品ではなく、栄養成分量が既知の製品に対して平均は計算されます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_note"
 msgid ""
 "If the picture is sufficiently sharp and level, nutrition facts can be "
 "automatically extracted from the picture."
 msgstr "画像が十分にシャープでレベルがあれば、栄養成分表は自動的に画像から抽出することができます。"
 
-msgctxt "nutrition_data_per_10"
-msgid "10th centile"
-msgstr "10 パーセンタイル"
-
-msgctxt "nutrition_data_per_100g"
-msgid "for 100 g / 100 ml"
-msgstr "100グラム/ 100mlで用"
-
+# (pofilter) xmltags: Different XML tags
 msgctxt "nutrition_data_per_5"
 msgid "5<sup>th</supe> centile"
 msgstr "5 パーセンタイル"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_per_50"
 msgid "Median"
 msgstr "中央値"
 
-msgctxt "nutrition_data_per_90"
-msgid "90th centile"
-msgstr "90 パーセンタイル"
-
+# (pofilter) xmltags: Different XML tags
 msgctxt "nutrition_data_per_95"
 msgid "95<sup>th</supe> centile"
 msgstr "95 パーセンタイル"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_per_max"
 msgid "Maximum"
 msgstr "最大"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_per_mean"
 msgid "Mean"
 msgstr "平均"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_per_min"
 msgid "Minimum"
 msgstr "最小"
 
-msgctxt "nutrition_data_per_serving"
-msgid "per serving"
-msgstr "一食当たり"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_per_std"
 msgid "Standard deviation"
 msgstr "標準偏差"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_data_table"
 msgid "Nutrition facts"
 msgstr "栄養成分表"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Missing '(', ')'
 msgctxt "nutrition_data_table_note"
 msgid ""
 "The table lists by default nutriments that are often specified. Leave the "
@@ -1759,24 +2001,26 @@ msgstr ""
 "ビタミン、ミネラル、コレステロールなど）。\n"
 "表の最後の行で、名前の最初の文字を入力してください。"
 
-msgctxt "nutrition_data_table_sub"
-msgid "-"
-msgstr "-"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_grades_p"
 msgid "Nutrition grades"
 msgstr "栄養グレード"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "nutrition_grades_s"
 msgid "Nutrition grade"
 msgstr "栄養グレード"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "og_image_url"
 msgid ""
 "http://world.openfoodfacts.org/images/misc/openfoodfacts-logo-en-356.png"
 msgstr ""
 "http://world.openfoodfacts.org/images/misc/openfoodfacts-logo-en-356.png"
 
+# (pofilter) puncspacing: Different spacing around punctuation
 msgctxt "on_the_blog_content"
 msgid ""
 "<p>To learn more about <<site_name>>, visit <a "
@@ -1787,10 +2031,19 @@ msgstr ""
 "href=\"http://en.blog.openfoodfacts.org\">私たちのブログ</a> をご覧ください!</p>\n"
 "<p>最近のニュース:</p>\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "on_the_blog_title"
 msgid "News"
 msgstr "ニュース"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Added '(', ')'
+# (pofilter) sentencecount: Different number of sentences: 3 ≠ 2
+# (pofilter) xmltags: Different XML tags
+# (pofilter) startpunc: Different punctuation at the start
 msgctxt "openfoodhunt_points"
 msgid ""
 "It's <a href=\"/open-food-hunt-2015\">Open Food Hunt</a> on <<site_name>> "
@@ -1803,304 +2056,384 @@ msgstr ""
 "2015/2/21 (土) から 2015/3/1 (日) です!\n"
 "貢献者は、追加した製品ポイントと、新しい貢献者を募集したアンバサダーポイントを授与されます。ポイントは 30 分ごとに更新されます。"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "or"
 msgid "or:"
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "origins"
 msgid "Origin of ingredients"
 msgstr "成分の起源"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) acronyms: Consider not translating acronyms: USA
 msgctxt "origins_example"
 msgid "California, USA"
 msgstr "カリフォルニア、アメリカ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "origins_note_xxx"
 msgid "Indicate the origin of ingredients"
 msgstr "原材料の原産地を表示します"
 
-msgctxt "origins_p"
-msgid "origins of ingredients"
-msgstr "原材料の原産地"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "origins_products"
 msgid "Products with ingredients originating from %s"
 msgstr "%s 原産の原材料を含む製品"
 
-msgctxt "origins_s"
-msgid "origin of ingredients"
-msgstr "原材料の原産地"
-
-msgctxt "origins_tagsinput"
-msgid "add an origin"
-msgstr "原産地を追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "origins_without_products"
 msgid "Products without ingredients originating from %s"
 msgstr "%s 原産の原材料を含まない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "packaging"
 msgid "Packaging"
 msgstr "パッケージング"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "packaging_example"
 msgid "Fresh, Canned, Frozen, Bottle, Box, Glass, Plastic..."
 msgstr "生鮮、缶詰、冷凍、ボトル、ボックス、ガラス、プラスチック..."
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "packaging_note"
 msgid "Packaging type, format, material"
 msgstr "包装の種類、形式、材料"
 
-msgctxt "packaging_p"
-msgid "packaging"
-msgstr "包装"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "packaging_products"
 msgid "Products with a %s packaging"
 msgstr "%s 包装の製品"
 
-msgctxt "packaging_s"
-msgid "packaging"
-msgstr "包装"
-
-msgctxt "packaging_tagsinput"
-msgid "add a type, shape or material"
-msgstr "種類、形状、材料を追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "packaging_without_products"
 msgid "Products without a %s packaging"
 msgstr "%s 包装のない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "page_x"
 msgid "Page %d"
 msgstr "ページ %d"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "page_x_out_of_y"
 msgid "Page %d out of %d."
 msgstr "ページ %d / %d 。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "pages"
 msgid "Pages:"
 msgstr "ページ："
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "password"
 msgid "Password"
 msgstr "パスワード"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "password_confirm"
 msgid "Confirm password"
 msgstr "パスワードの確認"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "periods_after_opening"
 msgid "Period of time after opening"
 msgstr "開封後の期限"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "periods_after_opening_note"
 msgid "Found in an open container logo with a number of months: e.g. 12 M"
 msgstr "開封容器のロゴで見られる月数: 例えば 12 ヶ月"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "periods_after_opening_p"
 msgid "Periods after opening"
 msgstr "開封後の期限"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "periods_after_opening_s"
 msgid "Period after opening"
 msgstr "開封後の期限"
 
-msgctxt "photographers_p"
-msgid "photographers"
-msgstr "撮影者"
-
-msgctxt "photographers_s"
-msgid "photographer"
-msgstr "撮影者"
-
-msgctxt "pnns_groups_1"
-msgid "PNNS groups 1"
-msgstr "PNNS グループ 1"
-
-msgctxt "pnns_groups_1_p"
-msgid "PNNS groups 1"
-msgstr "PNNS グループ 1"
-
-msgctxt "pnns_groups_1_s"
-msgid "PNNS group 1"
-msgstr "PNNS グループ 1"
-
-msgctxt "pnns_groups_2"
-msgid "PNNS groups 2"
-msgstr "PNNS グループ 2"
-
-msgctxt "pnns_groups_2_p"
-msgid "PNNS groups 2"
-msgstr "PNNS グループ 2"
-
-msgctxt "pnns_groups_2_s"
-msgid "PNNS group 2"
-msgstr "PNNS グループ 2"
-
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "points_all_countries"
 msgid "There are %d Explorers and %d Ambassadors."
 msgstr "%d の発見と %d のアンバサダーがあります。"
 
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "points_all_users"
 msgid ""
 "There are Explorers for %d countries and Ambassadors for %d countries."
 msgstr "%d ヶ国の発見と %d ヶ国ののアンバサダーがあります。"
 
+# (pofilter) endpunc: Different punctuation at the end
 msgctxt "points_country"
 msgid "%s has %d Explorers and %d Ambassadors."
 msgstr "%s は %d の発見と %d のアンバサダーがあります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "points_ranking"
 msgid "Ranking"
 msgstr "ランキング"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "points_ranking_users_and_countries"
 msgid "Ranking of contributors and countries"
 msgstr "貢献者や国のランキング"
 
+# (pofilter) endpunc: Different punctuation at the end
 msgctxt "points_user"
 msgid ""
 "%s is an Explorer for %d countries and an Ambassador for %d countries."
 msgstr "%s は %d ヶ国の発見と %d ヶ国ののアンバサダーがあります。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "previous"
 msgid "Previous"
 msgstr "前"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_add_nutrient"
 msgid "Add a nutrient"
 msgstr "栄養成分を追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_added"
 msgid "Product added on"
 msgstr "製品に追加"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_changes_saved"
 msgid "Changes saved."
 msgstr "変更を保存しました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_characteristics"
 msgid "Product characteristics"
 msgstr "製品の特徴"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "product_created"
 msgid "Product created"
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_description"
 msgid ""
 "Ingredients, allergens, additives, nutrition facts, labels, origin of "
 "ingredients and information on product %s"
 msgstr "原材料、アレルゲン、添加物、栄養成分表、ラベル、原材料の原産地、製品 %s の情報"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_image"
 msgid "Product picture"
 msgstr "製品の写真"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_image_with_barcode"
 msgid "Picture with barcode:"
 msgstr "バーコード付き写真："
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_current_image"
 msgid "Current image:"
 msgstr "現在の画像:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_deleting_images"
 msgid "Deleting images"
 msgstr "画像を削除します"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_extract_ingredients"
 msgid "Extract the ingredients from the picture"
 msgstr "画像から成分を抽出します"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_extracted_ingredients_nok"
 msgid ""
 "Ingredients text could not be extracted. Try with a sharper image, with "
 "higher resolution or a better framing of the text."
 msgstr "原材料の文字を抽出できませんでした。高い解像度や、文字をうまくフレームに合わせて、より鮮明な画像で試してみてください。"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_extracted_ingredients_ok"
 msgid ""
 "Ingredients text has been extracted. Text recognition is not perfect, so "
 "please check the text below and correct errors if needed."
 msgstr "原材料の文字が抽出されました。文字認識は完璧ではないので、必要に応じて以下の文章を確認して、エラーを修正してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_extracting_ingredients"
 msgid "Extracting ingredients"
 msgstr "原材料を抽出しています"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_normalize"
 msgid "Normalize colors"
 msgstr "色を正規化"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_open_full_size_image"
 msgid "Open the picture in original size in a new windows"
 msgstr "新しいウィンドウで元のサイズで画像を開きます"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_received"
 msgid "Image received"
 msgstr "画像を受信しました"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_rotate_and_crop"
 msgid ""
 "Rotate the image if necessary, then click and drag to select the interesting "
 "zone:"
 msgstr "必要に応じて画像を回転し、その後クリック＆ドラッグして、対象の範囲を選択してください:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_rotate_left"
 msgid "Rotate left"
 msgstr "左に回転"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_rotate_right"
 msgid "Rotate right"
 msgstr "右に回転"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_save"
 msgid "Validate and/or resize image"
 msgstr "検証および/または画像のサイズを変更"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_saved"
 msgid "Image saved"
 msgstr "画像を保存しました"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_saving"
 msgid "Saving image"
 msgstr "画像を保存しています"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_upload_error"
 msgid "Error while uploading image"
 msgstr "画像のアップロード時にエラー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_image_white_magic"
 msgid "Photo on white background: try to remove the background"
 msgstr "白い背景の写真: 背景を削除してみましょう"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_images_delete_error"
 msgid "Errors while deleting images"
 msgstr "画像の削除時にエラー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_images_deleted"
 msgid "Images deleted"
 msgstr "画像を削除しました"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_images_move_error"
 msgid "Errors while moving images"
 msgstr "画像の移動時にエラー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_images_moved"
 msgid "Images moved"
 msgstr "画像を移動しました"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_moving_images"
 msgid "Moving images"
 msgstr "画像を移動しています"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_upload_image"
 msgid "Add a picture"
 msgstr "写真を追加"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "product_js_upload_image_note"
 msgid ""
 "→ With Chrome, Firefox and Safari, you can select multiple pictures "
@@ -2108,94 +2441,107 @@ msgid ""
 "the Ctrl key pressed to add them all in one shot."
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_js_uploading_image"
 msgid "Uploading image"
 msgstr "画像のアップロード中"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_last_edited"
 msgid "Last edit of product page on"
 msgstr "最後に編集した製品ページ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_name"
 msgid "Product name"
 msgstr "製品名"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "product_name_example"
 msgid "Kinder Bueno White"
 msgstr "キンダーブエノホワイト"
 
-msgctxt "products"
-msgid "products"
-msgstr "製品"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "products_stats"
 msgid "Evolution of the number of products on <<site_name>>"
 msgstr "<<site_name>> 上の製品の数の進化"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "products_stats_completed_t"
 msgid "Products with complete information"
 msgstr "完全な情報の製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "products_stats_created_t"
 msgid "Products"
 msgstr "製品"
 
-msgctxt "products_with_nutriments"
-msgid "with nutrition facts"
-msgstr "栄養成分表あり"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "products_you_edited"
 msgid "Products you added or edited"
 msgstr "あなたが追加または編集した製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "purchase_places"
 msgid "City, state and country where purchased"
 msgstr "市、州、購入した国"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "purchase_places_note"
 msgid "Indicate where you bought or saw the product (at least the country)"
 msgstr "あなたが製品を購入または見た場所を示します (少なくとも国で)"
 
-msgctxt "purchase_places_p"
-msgid "purchase places"
-msgstr "購入場所"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "purchase_places_products"
 msgid "Products sold in %s"
 msgstr "%s で販売されている製品"
 
-msgctxt "purchase_places_s"
-msgid "purchase place"
-msgstr "購入場所"
-
-msgctxt "purchase_places_tagsinput"
-msgid "add a place"
-msgstr "場所を追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "purchase_places_without_products"
 msgid "Products not sold in %s"
 msgstr "%s で販売されていない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "quantity"
 msgid "Quantity"
 msgstr "数量"
 
-msgctxt "quantity_example"
-msgid "2 l, 250 g, 1 kg, 25 cl, 6 fl oz, 1 pound"
-msgstr "2 l, 250 g, 1 kg, 25 cl, 6 オンス, 1 ポンド"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "remember_me"
 msgid "Remember me"
 msgstr "保存する"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "remember_purchase_places_and_stores"
 msgid "Remember the place of purchase and store for the next product adds"
 msgstr "次に追加する製品のために、購入した場所と店舗を覚えておきます"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password"
 msgid "Reset password"
 msgstr "パスワードをリセットする"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) sentencecount: Different number of sentences: 3 ≠ 2
+# (pofilter) startpunc: Different punctuation at the start
 msgctxt "reset_password_email_body"
 msgid ""
 "Hello <NAME>,\n"
@@ -2230,137 +2576,178 @@ msgstr ""
 "Stephane\n"
 "http://openfoodfacts.org\n"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password_email_subject"
 msgid "Reset of your password on <<site_name>>"
 msgstr "<<site_name>> のパスワードのリセット"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password_reset"
 msgid ""
 "Your password has been changed. You can now log-in with this password."
 msgstr "パスワードは変更されました。このパスワードを使用して、ログインすることができるようになりました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password_reset_msg"
 msgid "Enter a new password."
 msgstr "新しいパスワードを入力してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password_send_email"
 msgid ""
 "An email with a link to reset your password has been sent to the e-mail "
 "address associated with your account."
 msgstr "パスワードをリセットするためのリンクを記載したメールが、アカウントに関連付けられたメールアドレスに送信されました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "reset_password_send_email_msg"
 msgid ""
 "If you have forgotten your password, fill-in your username or e-mail address "
 "to receive instructions for resetting your password."
 msgstr "パスワードを忘れた場合は、ユーザー名またはメールアドレスを入力して、パスワードをリセットするための手順を受信してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "risk_level"
 msgid "Risk"
 msgstr "リスク"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "risk_level_0"
 msgid "To be completed"
 msgstr "完了する必要があります"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "risk_level_1"
 msgid "Low risks"
 msgstr "低リスク"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "risk_level_2"
 msgid "Moderate risks"
 msgstr "中リスク"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "risk_level_3"
 msgid "High risks"
 msgstr "高リスク"
 
-msgctxt "salt_equivalent"
-msgid "salt equivalent"
-msgstr "食塩相当量"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "save"
 msgid "Save"
 msgstr "保存"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "saved"
 msgid "Saved."
 msgstr "保存しました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "saving"
 msgid "Saving."
 msgstr "保存中。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search"
 msgid "Search"
 msgstr "検索"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_a_product_placeholder"
 msgid "Search a product"
 msgstr "製品を検索"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_button"
 msgid "Search"
 msgstr "検索"
 
-msgctxt "search_contains"
-msgid "contains"
-msgstr "含む"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_criteria"
 msgid ""
 "Select products with specific brands, categories, labels, origins of "
 "ingredients, manufacturing places etc."
 msgstr "特定のブランド、カテゴリ、ラベル、成分の起源、製造所等を有する製品を選択"
 
-msgctxt "search_description_opensearch"
-msgid "Open Food Facts product search"
-msgstr "Open Food Facts 製品検索"
-
-msgctxt "search_does_not_contain"
-msgid "does not contain"
-msgstr "含まない"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_download_button"
 msgid "Download"
 msgstr "ダウンロード"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_download_choice"
 msgid "Download results"
 msgstr "ダウンロード結果"
 
-msgctxt "search_download_results"
-msgid "Download results in CSV format (Excel, OpenOffice)"
-msgstr "CSV 形式で結果をダウンロード (Excel、OpenOffice)"
-
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_download_results_description"
 msgid "Character set: Unicode (UTF-8)). Separator: tabulation (tab)."
 msgstr "文字セット: Unicode (UTF-8))、区切り文字: タブ (tab)。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_edit"
 msgid "Change search criteria"
 msgstr "検索条件を変更"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_flatten_tags"
 msgid "(Optional) - Create a column for every:"
 msgstr "(オプション) - すべての列を作成:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_generate_graph"
 msgid "Generate graph"
 msgstr "グラフを生成"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_generate_map"
 msgid "Generate the map"
 msgstr "地図を生成"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph"
 msgid "Graph"
 msgstr "グラフ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_2_axis"
 msgid "Scatter plot"
 msgstr "散布図"
 
+# (pofilter) simplecaps: Different capitalization
 msgctxt "search_graph_blog"
 msgid ""
 "<p>→ learn more about <<site_name>> graphs: <a "
@@ -2371,10 +2758,17 @@ msgstr ""
 "href=\"http://fr.blog.openfoodfacts.org/news/des-graphiques-en-3-clics\">3 "
 "クリックでグラフ</a> (ブログ)。</p>"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_choice"
 msgid "Results on a graph"
 msgstr "グラフ上の結果"
 
+# (pofilter) newlines: Different line endings
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Missing '(', ')'
 msgctxt "search_graph_instructions"
 msgid ""
 "Select what you want to graph on the horizontal axis to obtain a histogram, "
@@ -2382,433 +2776,520 @@ msgid ""
 "get a cloud of products (scatter plot)."
 msgstr "ヒストグラムを得るために、横軸にグラフ化したいものを選択、または製品のクラウド（散布図）を得るために、2 軸を選択します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_link"
 msgid ""
 "Permanent link to this graph, shareable by e-mail and on social networks"
 msgstr "グラフへの固定リンク、メールやソーシャルネットワークで共有可能"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_note"
 msgid ""
 "The graph will show only products for which displayed values are known."
 msgstr "グラフは、表示する値がわかっている製品のみを表示します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_title"
 msgid "Display results on a graph"
 msgstr "グラフ上に結果を表示"
 
+# (pofilter) sentencecount: Different number of sentences: 2 ≠ 1
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_graph_warning"
 msgid ""
 "Note: this is a user generated graph. The title, represented products and "
 "axis of visualization have been chosen by the author of the graph."
 msgstr "注: これはユーザー生成したグラフです。視覚化のタイトル、代表製品、軸は、グラフの作成者が選択しました。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_indifferent"
 msgid "Indifferent"
 msgstr "無関心"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_ingredients"
 msgid "Ingredients"
 msgstr "材料"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_link"
 msgid ""
 "Permanent link to these results, shareable by e-mail and on social networks"
 msgstr "これらの結果への固定リンク、メールやソーシャルネットワークで共有可能"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_list_choice"
 msgid "Results in a list of products"
 msgstr "製品のリストでの結果"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_map"
 msgid "Map"
 msgstr "地図"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_map_choice"
 msgid "Results on a map"
 msgstr "地図上の検索結果"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_map_link"
 msgid ""
 "Permanent link to this map, shareable by e-mail and on social networks"
 msgstr "この地図への固定リンク、メールやソーシャルネットワークで共有可能"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_map_note"
 msgid ""
 "The map will show only products for which the production place is known."
 msgstr "地図は、製造場所が分かっている製品のみを表示します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_map_title"
 msgid "Display results on a map"
 msgstr "地図上に結果を表示"
 
-msgctxt "search_nutriment"
-msgid "choose a nutriment..."
-msgstr "栄養成分を選択..."
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_nutriments"
 msgid "Nutriments"
 msgstr "栄養成分"
 
-msgctxt "search_or"
-msgid "or"
-msgstr "または"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_page_size"
 msgid "Results per page"
 msgstr "ページあたりの結果数"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_products"
 msgid "Products search"
 msgstr "製品検索"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_results"
 msgid "Search results"
 msgstr "検索結果"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series"
 msgid "Use a different color for the following products:"
 msgstr "次の製品に別の色を使用します:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series_default"
 msgid "Other products"
 msgstr "その他の製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series_fairtrade"
 msgid "Fair trade"
 msgstr "フェアトレード"
 
-msgctxt "search_series_fairtrade_label"
-msgid "fair-trade"
-msgstr "フェアトレード"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series_nutrition_grades"
 msgid "Use nutrition grades colors"
 msgstr "栄養グレードの色を使用"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series_organic"
 msgid "Organic"
 msgstr "オーガニック"
 
-msgctxt "search_series_organic_label"
-msgid "organic"
-msgstr "オーガニック"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_series_with_sweeteners"
 msgid "With sweeteners"
 msgstr "甘味料あり"
 
-msgctxt "search_tag"
-msgid "choose a criterion..."
-msgstr "基準を選択..."
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_tags"
 msgid "Criteria"
 msgstr "条件"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_terms"
 msgid "Search terms"
 msgstr "検索条件"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_terms_note"
 msgid ""
 "Search for words present in the product name, generic name, brands, "
 "categories, origins and labels"
 msgstr "製品名、一般名、ブランド、カテゴリ、原産地、ラベルに存在する単語を検索します"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_title"
 msgid "Search a product, brand, ingredient, nutriment etc."
 msgstr "製品、ブランド、成分、栄養などを検索します。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_title_graph"
 msgid "Results graph"
 msgstr "結果グラフ"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_title_map"
 msgid "Results map"
 msgstr "結果の地図"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_tools"
 msgid "Search tools"
 msgstr "検索ツール"
 
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "search_value"
 msgid "value"
 msgstr "値"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_with"
 msgid "With"
 msgstr "あり"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "search_without"
 msgid "Without"
 msgstr "なし"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "see_product_page"
 msgid "See the product page"
 msgstr "製品ページを参照してください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) short: The translation is much shorter than the original
 msgctxt "select_country"
 msgid "Country"
 msgstr "国"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "select_lang"
 msgid "Language"
 msgstr "言語"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "send_image"
 msgid "Send a picture..."
 msgstr "写真を送信..."
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "send_image_error"
 msgid "Upload error"
 msgstr "アップロードエラー"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sending_image"
 msgid "Sending image"
 msgstr "画像を送信しています"
 
+# (pofilter) simplecaps: Different capitalization
 msgctxt "serving_size"
 msgid "Serving size"
 msgstr "一人前の分量"
 
-msgctxt "serving_size_example"
-msgid "60 g, 12 oz, 20cl, 2 fl oz"
-msgstr "60 g, 12 オンス, 20 cl, 2 液量オンス"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "session_title"
 msgid "Sign-in"
 msgstr "サインイン"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "share"
 msgid "Share"
 msgstr ""
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "show_category_stats"
 msgid "Show detailed stats"
 msgstr "詳細な統計情報を表示"
 
-msgctxt "show_category_stats_details"
-msgid "standard deviation, minimum, maximum, 10th and 90th percentiles"
-msgstr "標準偏差、最小値、最大値、10 および 90 パーセンタイル"
-
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "signin_before_submit"
 msgid ""
 "If you already have an account on <SITE>, please sign-in before filling this "
 "form."
 msgstr "すでに <SITE> のアカウントをお持ちの場合は、このフォームを入力する前にサインインしてください。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "signout"
 msgid "Sign-out"
 msgstr "サインアウト"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "site_description"
 msgid ""
 "A collaborative, free and open database of ingredients, nutrition facts and "
 "information on food products from around the world"
 msgstr "世界中から、食品の原材料、栄養成分、情報の、共同のフリーでオープンなデータベース"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "site_name"
 msgid "Open Food Facts"
 msgstr "Open Food Facts"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sort_by"
 msgid "Sort by"
 msgstr "並び替え"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sort_created_t"
 msgid "Add date"
 msgstr "追加日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sort_modified_t"
 msgid "Edit date"
 msgstr "編集日"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sort_popularity"
 msgid "Popularity"
 msgstr "人気"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "sort_product_name"
 msgid "Product name"
 msgstr "製品名"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "state"
 msgid "State"
 msgstr "状態"
 
-msgctxt "states_p"
-msgid "states"
-msgstr "状態"
-
-msgctxt "states_s"
-msgid "state"
-msgstr "状態"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "stores"
 msgid "Stores"
 msgstr "店舗"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "stores_note"
 msgid "Name of the shop or supermarket chain"
 msgstr "店やスーパーマーケットチェーンの名前"
 
-msgctxt "stores_p"
-msgid "stores"
-msgstr "店舗"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "stores_products"
 msgid "Products sold at %s"
 msgstr "%s で販売される製品"
 
-msgctxt "stores_s"
-msgid "store"
-msgstr "店舗"
-
-msgctxt "stores_tagsinput"
-msgid "add a store"
-msgstr "店舗を追加"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "stores_without_products"
 msgid "Products not bought at %s"
 msgstr "%s で購入していない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "subscribe"
 msgid "Subscribe"
 msgstr "講読"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "tag_belongs_to"
 msgid "Belongs to:"
 msgstr "属する:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "tag_contains"
 msgid "Contains:"
 msgstr "含む:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "tag_weblinks"
 msgid "Weblinks"
 msgstr "ウェブリンク"
 
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "tagstable_filtered"
 msgid "out of _MAX_"
 msgstr "_MAX_ の外"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "tagstable_search"
 msgid "Search:"
 msgstr "検索:"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "traces"
 msgid "Traces"
 msgstr "形跡"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "traces_example"
 msgid "Milk, Gluten, Nuts"
 msgstr "牛乳、グルテン、豆類"
 
+# (pofilter) puncspacing: Different spacing around punctuation
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "traces_note"
 msgid ""
 "Indicate ingredients from mentions like \"May contain traces of\", \"Made in "
 "a factory that also uses\" etc."
 msgstr "\"を微量に含む可能性がある\"、\"も使用する工場で作られた\"、などのように言及している原材料を示しています"
 
-msgctxt "traces_p"
-msgid "traces"
-msgstr "形跡"
-
-msgctxt "traces_s"
-msgid "trace"
-msgstr "形跡"
-
-msgctxt "twitter"
-msgid "Twitter username (optional)"
-msgstr "Twitter ユーザー名 (オプション)"
-
-msgctxt "twitter_account"
-msgid "OpenFoodFacts"
-msgstr "OpenFoodFactsJp"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "unknown"
 msgid "Unknown"
 msgstr "不明"
 
-msgctxt "unknown_nutrients_p"
-msgid "unknown nutrients"
-msgstr "不明な栄養成分"
-
-msgctxt "unknown_nutrients_s"
-msgid "unknown nutrient"
-msgstr "不明な栄養成分"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "unsubscribe"
 msgid "Unsubscribe"
 msgstr "購読解除"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "unsubscribe_info"
 msgid "You can unsubscribe from the lists at any time."
 msgstr "いつでもリストから購読解除することができます。"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "userid_or_email"
 msgid "Username or e-mail address: "
 msgstr "ユーザー名またはメールアドレス: "
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "username"
 msgid "User name"
 msgstr "ユーザー名"
 
-msgctxt "username_info"
-msgid "(non-accented letters, digits and/or dashes)"
-msgstr "(アクセントのない文字、数字、および/またはダッシュ)"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "username_or_email"
 msgid "Username or email address"
 msgstr "ユーザー名またはメールアドレス"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_add_products"
 msgid "Products that were added by the user %s"
 msgstr "ユーザー %s が追加した製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_add_without_products"
 msgid "Products that were not added by the user %s"
 msgstr "ユーザー %s が追加していない製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_edit_products"
 msgid "Products that were edited by the user %s"
 msgstr "ユーザー %s が編集した製品"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_edit_without_products"
 msgid "Products that were not edited by the user %s"
 msgstr "ユーザー %s が編集していない製品"
 
-msgctxt "users_p"
-msgid "contributors"
-msgstr "貢献者"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_products"
 msgid "Products added by %s"
 msgstr "%s が追加した製品"
 
-msgctxt "users_s"
-msgid "contributor"
-msgstr "貢献者"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "users_without_products"
 msgid "Products not added by %s"
 msgstr "%s が追加していない製品"
 
-msgctxt "view"
-msgid "view"
-msgstr "表示"
-
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "view_list_for_products_from_the_entire_world"
 msgid "View the list for matching products from the entire world"
 msgstr "全世界から一致する製品のリストを表示"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "view_products_from_the_entire_world"
 msgid "View matching products from the entire world"
 msgstr "全世界から一致する製品を表示"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "view_results_from_the_entire_world"
 msgid "View results from the entire world"
 msgstr "全世界からの結果を表示"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "warning_3rd_party_content"
 msgid ""
 "Information and data must come from the product package and label (and not "
@@ -2820,16 +3301,20 @@ msgstr ""
 "(他のサイトや製造者のサイトから取得しないでください)、そして写真は自分で撮影する必要があります。<br/>\n"
 "→ <a href=\"\">なぜ問題か</a>"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "website"
 msgid "Site or blog address"
 msgstr "サイトやブログのアドレス"
 
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "weekdays"
 msgid ""
 "['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', "
 "'Saturday']"
 msgstr "['日曜日', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日']"
 
+# (pofilter) xmltags: Different XML tags
 msgctxt "windows_phone_app_badge"
 msgid ""
 "<img src=\"/images/misc/154x40_WP_Store_blk.png\" alt=\"Windows Phone "
@@ -2838,6 +3323,7 @@ msgstr ""
 "<img src=\"/images/misc/154x40_WP_Store_blk.png\" alt=\"Windows Phone ストア\" "
 "width=\"154\" height=\"40\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "windows_phone_app_link"
 msgid ""
 "http://www.windowsphone.com/en-us/store/app/openfoodfacts/5d7cf939-cfd9-4ac0-"
@@ -2846,10 +3332,15 @@ msgstr ""
 "http://www.windowsphone.com/en-us/store/app/openfoodfacts/5d7cf939-cfd9-4ac0-"
 "86d7-91b946f4df34"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) endpunc: Different punctuation at the end
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
 msgctxt "you_are_connected_as_x"
 msgid "You are connected as %s."
 msgstr "%s として接続しています。"
 
+# (pofilter) xmltags: Different XML tags
 #~ msgctxt "login_register_content"
 #~ msgid ""
 #~ "<p>Sign-in to add or edit products.</p>\n"
@@ -2885,10 +3376,7 @@ msgstr "%s として接続しています。"
 #~ "</form>\n"
 #~ "<p>まだ登録していませんか? <a href=\"/cgi/user.pl\">アカウントを作成</a>.</p>\n"
 
-#~ msgctxt "or"
-#~ msgid "or :"
-#~ msgstr "または :"
-
+# (pofilter) endpunc: Different punctuation at the end
 #~ msgctxt "product_js_upload_image_note"
 #~ msgid ""
 #~ "→ With Chrome, Firefox and Safari, you can select multipe pictures (product, "

@@ -1,8 +1,3 @@
-# English (Australia) translation for openfoodfacts
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
-# This file is distributed under the same license as the openfoodfacts package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: openfoodfacts\n"
@@ -11,50 +6,64 @@ msgstr ""
 "PO-Revision-Date: 2016-09-17 14:53+0000\n"
 "Last-Translator: Jared Norris <jarednorris@ubuntu.com>\n"
 "Language-Team: English (Australia) <en_AU@li.org>\n"
+"Language: en_AU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-01-18 10:56+0000\n"
 "X-Generator: Launchpad (build 18302)\n"
+"X-Launchpad-Export-Date: 2017-01-18 10:56+0000\n"
 
+# (pofilter) startpunc: Different punctuation at the start
 #. put here the language tag ("fr" for French, "ja" for Japanese, etc)
 msgctxt ":langtag"
 msgid ":langtag"
 msgstr "en-au"
 
+# (pofilter) simplecaps: Different capitalization
+# (pofilter) startpunc: Different punctuation at the start
+# (pofilter) startcaps: Different capitalization at the start
+# (pofilter) brackets: Added '(', ')'
 #. put here the language name ("French", "Japanese", etc)
 msgctxt ":langname"
 msgid ":langname"
 msgstr "English (Australia)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "1_product"
 msgid "1 product"
 msgstr "1 product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "_and_"
 msgid " and "
 msgstr " and "
 
+# (pofilter) unchanged: Consider translating
 msgctxt "about"
 msgid "About me"
 msgstr "About me"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add"
 msgid "Add"
 msgstr "Add"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_language"
 msgid "Add language"
 msgstr "Add language"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_product"
 msgid "Add a product"
 msgstr "Add a product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_user"
 msgid "Register"
 msgstr "Register"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_user_confirm"
 msgid ""
 "<p>Thanks for joining. You can now sign-in on the site to add and edit "
@@ -63,6 +72,7 @@ msgstr ""
 "<p>Thanks for joining. You can now sign-in on the site to add and edit "
 "products.</p>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_user_email_body"
 msgid ""
 "Hello <NAME>,\n"
@@ -121,72 +131,89 @@ msgstr ""
 "http://openfoodfacts.org\n"
 "http://twitter.com/OpenFoodFacts\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "add_user_email_subject"
 msgid "Thanks for joining <<site_name>>"
 msgstr "Thanks for joining <<site_name>>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "additives_1"
 msgid "Potentially hazardous food additive. Limit usage."
 msgstr "Potentially hazardous food additive. Limit usage."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "additives_2"
 msgid "Hazardous food additive. Avoid."
 msgstr "Hazardous food additive. Avoid."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "additives_3"
 msgid "Food additive banned in Europe. Avoid at all cost."
 msgstr "Food additive banned in Europe. Avoid at all cost."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "additives_p"
 msgid "additives"
 msgstr "additives"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "additives_s"
 msgid "additive"
 msgstr "additive"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "advanced_search"
 msgid "Advanced search"
 msgstr "Advanced search"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "advanced_search_old"
 msgid "Advanced search and graphs"
 msgstr "Advanced search and graphs"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "alcohol_warning"
 msgid "Excess drinking is harmful for health."
 msgstr "Excess drinking is harmful for health."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "all_missions"
 msgid "All missions"
 msgstr "All missions"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "allergens"
 msgid "Substances or products causing allergies or intolerances"
 msgstr "Substances or products causing allergies or intolerances"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "allergens_p"
 msgid "allergens"
 msgstr "allergens"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "allergens_s"
 msgid "allergen"
 msgstr "allergen"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "also_edited_by"
 msgid "Product page also edited by"
 msgstr "Product page also edited by"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_apk_app_badge"
 msgid ""
 "<img src=\"/images/misc/android-apk.112x40.png\" alt=\"Android APK\" />"
 msgstr ""
 "<img src=\"/images/misc/android-apk.112x40.png\" alt=\"Android APK\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_apk_app_link"
 msgid "http://world.openfoodfacts.org/files/off.apk"
 msgstr "http://world.openfoodfacts.org/files/off.apk"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_app_badge"
 msgid ""
 "<img src=\"/images/misc/android-app-on-google-play-"
@@ -197,12 +224,14 @@ msgstr ""
 "en_app_rgb_wo_135x47.png\" alt=\"Available on Google Play\" width=\"135\" "
 "height=\"47\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "android_app_link"
 msgid ""
 "https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner"
 msgstr ""
 "https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "app_please_take_pictures"
 msgid ""
 "<p>This product is not yet in the <<site_name>> database. Could you please "
@@ -217,10 +246,12 @@ msgstr ""
 "target=\"_blank\"><<site_name>></a>?</p>\n"
 "<p>Thanks in advance!</p>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "app_take_a_picture"
 msgid "Take a picture"
 msgstr "Take a picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "app_take_a_picture_note"
 msgid ""
 "Note: the pictures you send are published under the free licence Creative "
@@ -229,26 +260,32 @@ msgstr ""
 "Note: the pictures you send are published under the free licence Creative "
 "Commons Attribution and ShareAlike."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "app_you_can_add_pictures"
 msgid "You can add pictures:"
 msgstr "You can add pictures:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "axis_x"
 msgid "Horizontal axis"
 msgstr "Horizontal axis"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "axis_y"
 msgid "Vertical axis"
 msgstr "Vertical axis"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "barcode"
 msgid "Barcode"
 msgstr "Barcode"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "barcode_number"
 msgid "Barcode number:"
 msgstr "Barcode number:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "bottom_content"
 msgid ""
 "<a href=\"http://fr.openfoodfacts.org/mission/releveur-d-empreintes\">\n"
@@ -265,50 +302,62 @@ msgstr ""
 "<p>Contribute to <<site_name>> by adding product and win stars by\n"
 "fulfilling <a href=\"/missions\">missions</a>!</p>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "bottom_title"
 msgid "Embrace the mission"
 msgstr "Embrace the mission"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands"
 msgid "Brands"
 msgstr "Brands"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_example"
 msgid "Kinder Bueno White, Kinder Bueno, Kinder, Ferrero"
 msgstr "Kinder Bueno White, Kinder Bueno, Kinder, Ferrero"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_p"
 msgid "brands"
 msgstr "brands"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_products"
 msgid "Products from the %s brand"
 msgstr "Products from the %s brand"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_s"
 msgid "brand"
 msgstr "brand"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_tagsinput"
 msgid "add a brand"
 msgstr "add a brand"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "brands_without_products"
 msgid "Products not from the %s brand"
 msgstr "Products not from the %s brand"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "by"
 msgid "by"
 msgstr "by"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories"
 msgid "Categories"
 msgstr "Categories"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_example"
 msgid "Sardines in olive oil, Orange juice from concentrate"
 msgstr "Sardines in olive oil, Orange juice from concentrate"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_note"
 msgid ""
 "Indicate only the most specific category. \"Parents\" categories will be "
@@ -317,74 +366,87 @@ msgstr ""
 "Indicate only the most specific category. \"Parents\" categories will be "
 "automatically added."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_p"
 msgid "categories"
 msgstr "categories"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_products"
 msgid "Products from the %s category"
 msgstr "Products from the %s category"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_s"
 msgid "category"
 msgstr "category"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_tagsinput"
 msgid "add a category"
 msgstr "add a category"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "categories_without_products"
 msgid "Products not from the %s category"
 msgstr "Products not from the %s category"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "change_fields"
 msgid "Data"
 msgstr "Data"
 
-msgctxt "change_nutriments"
-msgid "Nutriments"
-msgstr "Nutrients"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "change_selected_images"
 msgid "Selected images"
 msgstr "Selected images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "change_uploaded_images"
 msgid "Uploaded images"
 msgstr "Uploaded images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "checkers_p"
 msgid "checkers"
 msgstr "checkers"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "checkers_s"
 msgid "checker"
 msgstr "checker"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "cities_p"
 msgid "packaging cities"
 msgstr "packaging cities"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "cities_products"
 msgid "Products packaged in the city of %s"
 msgstr "Products packaged in the city of %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "cities_s"
 msgid "packaging city"
 msgstr "packaging city"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "cities_without_products"
 msgid "Products not packaged in the city of %s"
 msgstr "Products not packaged in the city of %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "codes_p"
 msgid "Codes"
 msgstr "Codes"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "codes_s"
 msgid "Code"
 msgstr "Code"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "column_obsolete_do_not_translate_for_reference_only"
 msgid ""
 "<a href=\"/\"><img id=\"logo\" src=\"/images/misc/openfoodfacts-logo-"
@@ -499,226 +561,242 @@ msgstr ""
 "\n"
 "\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "completed_n_missions"
 msgid "completed %d missions:"
 msgstr "completed %d missions:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "connected_with_facebook"
 msgid "You are connected with your Facebook account."
 msgstr "You are connected with your Facebook account."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "contributor_since"
 msgid "Contributor since"
 msgstr "Contributor since"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "copy_data"
 msgid "Copy data from current product to new product"
 msgstr "Copy data from current product to new product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "correct_the_following_errors"
 msgid "Please correct the following errors:"
 msgstr "Please correct the following errors:"
 
-msgctxt "correctors_p"
-msgid "correctors"
-msgstr "corrections"
-
-msgctxt "correctors_s"
-msgid "corrector"
-msgstr "correction"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "countries"
 msgid "Countries where sold"
 msgstr "Countries where sold"
 
-msgctxt "countries_note"
-msgid ""
-"Countries where the product is widely available (non including stores "
-"specialising in foreign products)"
-msgstr ""
-"Countries where the product is widely available (not including stores "
-"specialising in foreign products)"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "countries_p"
 msgid "countries"
 msgstr "countries"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "countries_products"
 msgid "Products sold in %s"
 msgstr "Products sold in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "countries_s"
 msgid "country"
 msgstr "country"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "countries_without_products"
 msgid "Products not sold in %s"
 msgstr "Products not sold in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "data_source"
 msgid "Data source"
 msgstr "Data source"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "debug_p"
 msgid "debug"
 msgstr "debug"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "debug_s"
 msgid "debug"
 msgstr "debug"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "delete_comment"
 msgid "Reason for removal"
 msgstr "Reason for removal"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "delete_product"
 msgid "Delete a product"
 msgstr "Delete a product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "delete_product_page"
 msgid "Delete the page"
 msgstr "Delete the page"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "delete_the_images"
 msgid "Delete the images"
 msgstr "Delete the images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "delete_user"
 msgid "Delete an user"
 msgstr "Delete an user"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "diff_add"
 msgid "Added:"
 msgstr "Added:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "diff_change"
 msgid "Changed:"
 msgstr "Changed:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "diff_delete"
 msgid "Deleted:"
 msgstr "Deleted:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ecological_data_table"
 msgid "Ecological footprint"
 msgstr "Ecological footprint"
 
-msgctxt "ecological_data_table_note"
-msgid ""
-"If the carbon footprint is specified on the label (rarely at this time), "
-"indicate it for the same quantity than the nutritional composition."
-msgstr ""
-"If the carbon footprint is specified on the label (rarely at the moment), "
-"indicate it for the same quantity as the nutritional composition."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "edit"
 msgid "edit"
 msgstr "edit"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_comment"
 msgid "Changes summary"
 msgstr "Changes summary"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_product"
 msgid "Edit a product"
 msgstr "Edit a product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_product_page"
 msgid "Edit the page"
 msgstr "Edit the page"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_profile"
 msgid "Edit your public profile"
 msgstr "Edit your public profile"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_profile_confirm"
 msgid "Changes to your public profile have been saved."
 msgstr "Changes to your public profile have been saved."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_profile_msg"
 msgid "Information below is visible in your public profile."
 msgstr "Information below is visible in your public profile."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_settings"
 msgid "Change your account parameters"
 msgstr "Change your account parameters"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_user"
 msgid "Account parameters"
 msgstr "Account parameters"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "edit_user_confirm"
 msgid "<p>Your account parameters have been changed.</p>"
 msgstr "<p>Your account parameters have been changed.</p>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "editors_p"
 msgid "editors"
 msgstr "editors"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "editors_s"
 msgid "editor"
 msgstr "editor"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "email"
 msgid "e-mail address"
 msgstr "e-mail address"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_code_p"
 msgid "EMB codes"
 msgstr "EMB codes"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_code_products"
 msgid "Products packaged by the company with emb code %s"
 msgstr "Products packaged by the company with emb code %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_code_s"
 msgid "EMB code"
 msgstr "EMB code"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes"
 msgid "EMB code"
 msgstr "EMB code"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes_example"
 msgid "EMB code"
 msgstr "EMB code"
 
-msgctxt "emb_codes_note"
-msgid ""
-"In Europe, code in an ellipse with the 2 country initials followed by a "
-"number and CE."
-msgstr ""
-"In Europe, the code is in an ellipse with the 2 country initials followed by "
-"a number and CE."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes_p"
 msgid "packager codes"
 msgstr "packager codes"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes_products"
 msgid "Products with the emb code %s"
 msgstr "Products with the emb code %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes_s"
 msgid "packager code"
 msgstr "packager code"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "emb_codes_without_products"
 msgid "Products without the emb code %s"
 msgstr "Products without the emb code %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "entry_dates_p"
 msgid "Entry dates"
 msgstr "Entry dates"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "entry_dates_s"
 msgid "Entry date"
 msgstr "Entry date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error"
 msgid "Error"
 msgstr "Error"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_bad_login_password"
 msgid ""
 "Incorrect user name or password. <a "
@@ -727,14 +805,17 @@ msgstr ""
 "Incorrect user name or password. <a "
 "href=\"/cgi/reset_password.pl\">Forgotten password?</a>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_database"
 msgid "An error occured while reading the data, try to refresh the page."
 msgstr "An error occured while reading the data, try to refresh the page."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_different_passwords"
 msgid "The password and confirmation password are different."
 msgstr "The password and confirmation password are different."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_email_already_in_use"
 msgid ""
 "The e-mail address is already used by another user. Maybe you already have "
@@ -745,80 +826,98 @@ msgstr ""
 "an account? You can  <a href=\"/cgi/reset_password.pl\">reset the "
 "password</a> of your other account."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_invalid_address"
 msgid "Invalid address."
 msgstr "Invalid address."
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "error_invalid_csrf_token"
 msgid "Invalid CSRF token."
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_invalid_email"
 msgid "Invalid e-mail address"
 msgstr "Invalid e-mail address"
 
-msgctxt "error_invalid_password"
-msgid "The password needs to be a least 6 characters long."
-msgstr "The password needs to be at least 6 characters long."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "error_invalid_user"
 msgid "Invalid user."
 msgstr "Invalid user."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_invalid_username"
 msgid ""
 "The user name must contain only unaccented letters, digits and dashes."
 msgstr ""
 "The user name must contain only unaccented letters, digits and dashes."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_new_code_already_exists"
 msgid "A product already exists with the new code"
 msgstr "A product already exists with the new code"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_no_name"
 msgid "You need to enter a name or nickname."
 msgstr "You need to enter a name or nickname."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_no_permission"
 msgid "Permission denied."
 msgstr "Permission denied."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_no_username"
 msgid "You need to enter a user name"
 msgstr "You need to enter a user name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_reset_already_connected"
 msgid "You are already signed in."
 msgstr "You are already signed in."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_reset_invalid_token"
 msgid "The reset password link is invalid or has expired."
 msgstr "The reset password link is invalid or has expired."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_reset_unknown_email"
 msgid "There is no account with this email"
 msgstr "There is no account with this email"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_reset_unknown_id"
 msgid "This username does not exist."
 msgstr "This username does not exist."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "error_username_not_available"
 msgid "This username already exists, please choose another."
 msgstr "This username already exists, please choose another."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "example"
 msgid "Example:"
 msgstr "Example:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "examples"
 msgid "Examples:"
 msgstr "Examples:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "expiration_date"
 msgid "Best before date"
 msgstr "Best before date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "expiration_date_note"
 msgid ""
 "The expiration date is a way to track product changes over time and to "
@@ -827,18 +926,22 @@ msgstr ""
 "The expiration date is a way to track product changes over time and to "
 "identify the most recent version."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "explore_products_by"
 msgid "Drilldown into products by..."
 msgstr "Drilldown into products by..."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "facebook_locale"
 msgid "en_US"
 msgstr "en_US"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "facebook_page"
 msgid "https://www.facebook.com/OpenFoodFacts"
 msgstr "https://www.facebook.com/OpenFoodFacts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "fixme_product"
 msgid ""
 "If the data is incomplete or incorrect, you can complete or correct it by "
@@ -847,6 +950,7 @@ msgstr ""
 "If the data is incomplete or incorrect, you can complete or correct it by "
 "editing this page."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer"
 msgid ""
 "<a href=\"http://world.openfoodfacts.org/legal\">Legal</a> -\n"
@@ -869,6 +973,7 @@ msgstr ""
 "<a href=\"http://world.openfoodfacts.org/press-and-blogs\">Press and "
 "Blogs</a>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_and_the_facebook_group"
 msgid ""
 "and the <a "
@@ -879,42 +984,52 @@ msgstr ""
 "href=\"https://www.facebook.com/groups/374350705955208/\">Facebook group for "
 "contributors</a>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_blog"
 msgid "<<site_name>> blog"
 msgstr "<<site_name>> blog"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_blog_link"
 msgid "http://en.blog.openfoodfacts.org"
 msgstr "http://en.blog.openfoodfacts.org"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_code_of_conduct"
 msgid "Code of conduct"
 msgstr "Code of conduct"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_code_of_conduct_link"
 msgid "/code-of-conduct"
 msgstr "/code-of-conduct"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_data"
 msgid "Data"
 msgstr "Data"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_data_link"
 msgid "/data"
 msgstr "/data"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_discover_the_project"
 msgid "Discover the project"
 msgstr "Discover the project"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_faq"
 msgid "Frequently asked questions"
 msgstr "Frequently asked questions"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_faq_link"
 msgid "/faq"
 msgstr "/faq"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_follow_us"
 msgid ""
 "Follow us on <a href=\"http://twitter.com/openfoodfacts\">Twitter</a>,\n"
@@ -925,34 +1040,42 @@ msgstr ""
 "<a href=\"https://www.facebook.com/OpenFoodFacts\">Facebook</a> and\n"
 "<a href=\"https://plus.google.com/u/0/110748322211084668559/\">Google+</a>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_install_the_app"
 msgid "Install the app"
 msgstr "Install the app"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_join_the_community"
 msgid "Join the community"
 msgstr "Join the community"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_join_us_on"
 msgid "Join us on %s:"
 msgstr "Join us on %s:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_legal"
 msgid "Legal"
 msgstr "Legal"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_legal_link"
 msgid "/legal"
 msgstr "/legal"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_press"
 msgid "Press"
 msgstr "Press"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_press_link"
 msgid "/press"
 msgstr "/press"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_tagline"
 msgid ""
 "A collaborative, free and open database of food products from around the "
@@ -961,66 +1084,72 @@ msgstr ""
 "A collaborative, free and open database of food products from around the "
 "world."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_terms"
 msgid "Terms of use"
 msgstr "Terms of use"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_terms_link"
 msgid "/terms-of-use"
 msgstr "/terms-of-use"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_who_we_are"
 msgid "Who we are"
 msgstr "Who we are"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_who_we_are_link"
 msgid "/who-we-are"
 msgstr "/who-we-are"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_wiki"
 msgid "<<site_name>> wiki (en)"
 msgstr "<<site_name>> wiki (en)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "footer_wiki_link"
 msgid "http://en.wiki.openfoodfacts.org"
 msgstr "http://en.wiki.openfoodfacts.org"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "for"
 msgid "for"
 msgstr "for"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "front_alt"
 msgid "Product"
 msgstr "Product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "generic_name"
 msgid "Common name"
 msgstr "Common name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "generic_name_example"
 msgid "Chocolate bar with milk and hazelnuts"
 msgstr "Chocolate bar with milk and hazelnuts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "goodbye"
 msgid "See you soon!"
 msgstr "See you soon!"
 
-msgctxt "graph_count"
-msgid ""
-"%d products match the search criterias, of which %i products have defined "
-"values for the graph's axis."
-msgstr ""
-"%d products match the search criteria, of which %i products have defined "
-"values for the graph's axis."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "graph_title"
 msgid "Graph title"
 msgstr "Graph title"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "graphs_and_maps"
 msgid "Graphs and maps"
 msgstr "Graphs and maps"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "header"
 msgid ""
 "<meta property=\"fb:admins\" content=\"706410516\" />\n"
@@ -1059,44 +1188,54 @@ msgstr ""
 "\n"
 "\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "hello"
 msgid "Hello"
 msgstr "Hello"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "high"
 msgid "high"
 msgstr "high"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "high_quantity"
 msgid "high quantity"
 msgstr "high quantity"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "history"
 msgid "Changes history"
 msgstr "Changes history"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_front"
 msgid "Front picture"
 msgstr "Front picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_ingredients"
 msgid "Ingredients picture"
 msgstr "Ingredients picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_ingredients_note"
 msgid ""
 "If the picture is neat enough, the ingredients can be extracted automatically"
 msgstr ""
 "If the picture is neat enough, the ingredients can be extracted automatically"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_nutrition"
 msgid "Nutrition facts picture"
 msgstr "Nutrition facts picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_upload_error_image_already_exists"
 msgid "This picture has already been sent."
 msgstr "This picture has already been sent."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_upload_error_image_too_small"
 msgid ""
 "The picture is too small. Please do not upload pictures found on the "
@@ -1105,6 +1244,7 @@ msgstr ""
 "The picture is too small. Please do not upload pictures found on the "
 "Internet and only send photos you have taken yourself."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_upload_error_no_barcode_found_in_image_long"
 msgid ""
 "The barcode in the image could not be read, or the image contained no "
@@ -1115,10 +1255,12 @@ msgstr ""
 "barcode.\n"
 "You can try with another image, or directly enter the barcode."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_upload_error_no_barcode_found_in_image_short"
 msgid "No barcode found in the image."
 msgstr "No barcode found in the image."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "image_upload_error_no_barcode_found_in_text"
 msgid ""
 "You must enter the characters of the barcode or send a product image when "
@@ -1127,30 +1269,37 @@ msgstr ""
 "You must enter the characters of the barcode or send a product image when "
 "the barcode is visible."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "incomplete_products_you_added"
 msgid "Products you added that need to be completed"
 msgstr "Products you added that need to be completed"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "informers_p"
 msgid "informers"
 msgstr "informers"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "informers_s"
 msgid "informers"
 msgstr "informers"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients"
 msgid "Ingredients"
 msgstr "Ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_alt"
 msgid "Ingredients"
 msgstr "Ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_analysis"
 msgid "Ingredients analysis"
 msgstr "Ingredients analysis"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_analysis_note"
 msgid ""
 "Note: ingredients can be listed with many different names, please let us "
@@ -1159,58 +1308,62 @@ msgstr ""
 "Note: ingredients can be listed with many different names, please let us "
 "know if you think the analysis above is incorrect."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_from_or_that_may_be_from_palm_oil_p"
 msgid "ingredients from or that may be from palm oil"
 msgstr "ingredients from or that may be from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_from_or_that_may_be_from_palm_oil_s"
 msgid "ingredient from or that may be from palm oil"
 msgstr "ingredient from or that may be from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_from_palm_oil_p"
 msgid "ingredients from palm oil"
 msgstr "ingredients from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_from_palm_oil_s"
 msgid "ingredient from palm oil"
 msgstr "ingredient from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_n_p"
 msgid "Numbers of ingredients"
 msgstr "Numbers of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_n_s"
 msgid "Number of ingredients"
 msgstr "Number of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_p"
 msgid "ingredients"
 msgstr "ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_products"
 msgid "Products that contain the ingredient %s"
 msgstr "Products that contain the ingredient %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_s"
 msgid "ingredient"
 msgstr "ingredient"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_text"
 msgid "Ingredients list"
 msgstr "Ingredients list"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_text_display_note"
 msgid "Ingredients are listed in order of importance (quantity)."
 msgstr "Ingredients are listed in order of importance (quantity)."
 
-msgctxt "ingredients_text_example"
-msgid ""
-"Cereals 85.5% (_wheat_ flour, whole-_wheat_ flour 11%), malt extract, cocoa "
-"4,8%, ascorbic acid"
-msgstr ""
-"Cereals 85.5% (_wheat_ flour, whole-_wheat_ flour 11%), malt extract, cocoa "
-"4.8%, ascorbic acid"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_text_note"
 msgid ""
 "Keep the order, indicate the % when specified, separate with a comma or - , "
@@ -1221,18 +1374,22 @@ msgstr ""
 "use ( ) for ingredients of an ingredient, surround allergens with _ e.g. "
 "_milk_"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_that_may_be_from_palm_oil_p"
 msgid "ingredients that may be from palm oil"
 msgstr "ingredients that may be from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_that_may_be_from_palm_oil_s"
 msgid "ingredient that may be from palm oil"
 msgstr "ingredient that may be from palm oil"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ingredients_without_products"
 msgid "Products that do not contain the ingredient %s"
 msgstr "Products that do not contain the ingredient %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ios_app_badge"
 msgid ""
 "<img src=\"/images/misc/Available_on_the_App_Store_Badge_EN_135x40.png\" "
@@ -1241,166 +1398,197 @@ msgstr ""
 "<img src=\"/images/misc/Available_on_the_App_Store_Badge_EN_135x40.png\" "
 "alt=\"Available on the App Store\" width=\"135\" height=\"40\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "ios_app_link"
 msgid "https://itunes.apple.com/en/app/open-food-facts/id588797948"
 msgstr "https://itunes.apple.com/en/app/open-food-facts/id588797948"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "known_nutrients_p"
 msgid "known nutrients"
 msgstr "known nutrients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "known_nutrients_s"
 msgid "known nutrient"
 msgstr "known nutrient"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels"
 msgid "Labels, certifications, awards"
 msgstr "Labels, certifications, awards"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_example"
 msgid "Organic"
 msgstr "Organic"
 
-msgctxt "labels_note"
-msgid ""
-"Indicate only the most specific labels. \"Parents\" labels will be added "
-"automatically."
-msgstr ""
-"Indicate only the most specific labels. \"Parent\" labels will be added "
-"automatically."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_p"
 msgid "labels"
 msgstr "labels"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_products"
 msgid "Products that have the label %s"
 msgstr "Products that have the label %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_s"
 msgid "label"
 msgstr "label"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_tagsinput"
 msgid "add a label"
 msgstr "add a label"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "labels_without_products"
 msgid "Products that do not have the label %s"
 msgstr "Products that do not have the label %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang"
 msgid "Main language"
 msgstr "Main language"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_de"
 msgid "German"
 msgstr "German"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_el"
 msgid "Greek"
 msgstr "Greek"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_en"
 msgid "English"
 msgstr "English"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_es"
 msgid "Spanish"
 msgstr "Spanish"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_fr"
 msgid "French"
 msgstr "French"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_he"
 msgid "Hebrew"
 msgstr "Hebrew"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_it"
 msgid "Italian"
 msgstr "Italian"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_ja"
 msgid "Japanese"
 msgstr "Japanese"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_ko"
 msgid "Korean"
 msgstr "Korean"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_nl"
 msgid "Dutch"
 msgstr "Dutch"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_nl_be"
 msgid "Dutch"
 msgstr "Dutch"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_note"
 msgid "Language most present and most highlighted on the product"
 msgstr "Language most present and most highlighted on the product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_other"
 msgid "other language"
 msgstr "other language"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_pl"
 msgid "Polish"
 msgstr "Polish"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_pt"
 msgid "Portuguese"
 msgstr "Portuguese"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_ro"
 msgid "Romanian"
 msgstr "Romanian"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_ru"
 msgid "Russian"
 msgstr "Russian"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_th"
 msgid "Thai"
 msgstr "Thai"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_vi"
 msgid "Vietnamese"
 msgstr "Vietnamese"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "lang_zh"
 msgid "Chinese"
 msgstr "Chinese"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "language"
 msgid "en-US"
 msgstr "en-US"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "languages_p"
 msgid "languages"
 msgstr "languages"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "languages_s"
 msgid "language"
 msgstr "language"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "last_edit_dates_p"
 msgid "Last edit dates"
 msgstr "Last edit dates"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "last_edit_dates_s"
 msgid "Last edit date"
 msgstr "Last edit date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "last_image_dates_p"
 msgid "Last picture dates"
 msgstr "Last picture dates"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "last_image_dates_s"
 msgid "Last picture date"
 msgstr "Last picture date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "licence_accept"
 msgid ""
 "By adding information, data and/or images, you accept to place irrevocably "
@@ -1423,34 +1611,50 @@ msgstr ""
 "You accept to be credited by re-users by a link to the product your are "
 "contributing to."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "link"
 msgid "Link to the product page on the official site of the producer"
 msgstr "Link to the product page on the official site of the producer"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "list_of_x"
 msgid "List of %s"
 msgstr "List of %s"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "loadmore"
 msgid "Load more results"
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_and_add_product"
 msgid "Sign-in and add the product"
 msgstr "Sign-in and add the product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_and_edit_product"
 msgid "Sign-in and edit the product"
 msgstr "Sign-in and edit the product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_create_your_account"
 msgid "Create your account."
 msgstr "Create your account."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_not_registered_yet"
 msgid "Not registered yet?"
 msgstr "Not registered yet?"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "login_register_content"
 msgid ""
 "<p>Sign-in to add or edit products.</p>\n"
@@ -1471,14 +1675,17 @@ msgid ""
 "account</a>.</p>\n"
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_register_title"
 msgid "Sign-in"
 msgstr "Sign-in"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_to_add_and_edit_products"
 msgid "Sign-in to add or edit products."
 msgstr "Sign-in to add or edit products."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_to_add_products"
 msgid ""
 "<p>Please sign-in to add or edit a product.</p>\n"
@@ -1491,126 +1698,147 @@ msgstr ""
 "<p>If you do not yet have an account on <<site_name>>, you can <a "
 "href=\"/cgi/user.pl\">register in 30 seconds</a>.</p>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "login_username_email"
 msgid "Username or e-mail address:"
 msgstr "Username or e-mail address:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "low"
 msgid "low"
 msgstr "low"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "low_quantity"
 msgid "low quantity"
 msgstr "low quantity"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manage_images"
 msgid "Manage images"
 msgstr "Manage images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manage_images_info"
 msgid "You can select one or more images and then:"
 msgstr "You can select one or more images and then:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places"
 msgid "Manufacturing or processing places"
 msgstr "Manufacturing or processing places"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_example"
 msgid "Montana, USA"
 msgstr "Montana, USA"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_p"
 msgid "manufacturing or processing places"
 msgstr "manufacturing or processing places"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_products"
 msgid "Products manufactured or processed in %s"
 msgstr "Products manufactured or processed in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_s"
 msgid "manufacturing or processing place"
 msgstr "manufacturing or processing place"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_tagsinput"
 msgid "add a place"
 msgstr "add a place"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "manufacturing_places_without_products"
 msgid "Products not manufactured or processed in %s"
 msgstr "Products not manufactured or processed in %s"
 
-msgctxt "map_count"
-msgid ""
-"%d products match the search criterias, of which %i products have a known "
-"production place."
-msgstr ""
-"%d products match the search criteria, of which %i products have a known "
-"production place."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "map_title"
 msgid "Map title"
 msgstr "Map title"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu"
 msgid "Menu"
 msgstr "Menu"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_add_a_product"
 msgid "Add a product"
 msgstr "Add a product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_add_a_product_link"
 msgid "/add-a-product"
 msgstr "/add-a-product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_contribute"
 msgid "Contribute"
 msgstr "Contribute"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_contribute_link"
 msgid "/contribute"
 msgstr "/contribute"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_discover"
 msgid "Discover"
 msgstr "Discover"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "menu_discover_link"
 msgid "/discover"
 msgstr "/discover"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "mission_"
 msgid "Mission: "
 msgstr "Mission: "
 
+# (pofilter) unchanged: Consider translating
 msgctxt "mission_accomplished_by"
 msgid "This mission has been completed by:"
 msgstr "This mission has been completed by:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "mission_accomplished_by_n"
 msgid "Completed by %d persons."
 msgstr "Completed by %d persons."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "mission_accomplished_by_nobody"
 msgid "Be the first to complete this mission!"
 msgstr "Be the first to complete this mission!"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "mission_goal"
 msgid "Goal:"
 msgstr "Goal:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "missions"
 msgid "Missions"
 msgstr "Missions"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "moderate"
 msgid "moderate"
 msgstr "moderate"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "moderate_quantity"
 msgid "moderate quantity"
 msgstr "moderate quantity"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "months"
 msgid ""
 "['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', "
@@ -1619,112 +1847,119 @@ msgstr ""
 "['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', "
 "'September', 'October', 'November', 'December']"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "move_images_to_another_product"
 msgid "Move the images to another product"
 msgstr "Move the images to another product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "n_products"
 msgid "%d products"
 msgstr "%d products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "name"
 msgid "Name"
 msgstr "Name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "names"
 msgid "Names"
 msgstr "Names"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "new_code"
 msgid "If the barcode is not correct, please correct it here:"
 msgstr "If the barcode is not correct, please correct it here:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "new_code_note"
 msgid ""
 "For products without a barcode, an internal code is automatically set."
 msgstr ""
 "For products without a barcode, an internal code is automatically set."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "newsletter_description"
 msgid "Subscribe to the newsletter (2 emails per month maximum)"
 msgstr "Subscribe to the newsletter (2 emails per month maximum)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "next"
 msgid "Next"
 msgstr "Next"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "no_barcode"
 msgid "Product without barcode"
 msgstr "Product without barcode"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "no_nutrition_data"
 msgid "Nutrition facts are not specified on the product."
 msgstr "Nutrition facts are not specified on the product."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "no_product_for_barcode"
 msgid "No product listed for barcode %s."
 msgstr "No product listed for barcode %s."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "no_products"
 msgid "No products."
 msgstr "No products."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "not_saved"
 msgid "Error while saving, please retry."
 msgstr "Error while saving, please retry."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "number_of_additives"
 msgid "Number of additives"
 msgstr "Number of additives"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "number_of_products"
 msgid "Number of products"
 msgstr "Number of products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_in_quantity"
 msgid "%s in %s"
 msgstr "%s in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_levels_info"
 msgid "Nutrient levels for 100 g"
 msgstr "Nutrient levels for 100 g"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_levels_link"
 msgid "/nutrient-levels"
 msgstr "/nutrient-levels"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_levels_p"
 msgid "nutrient levels"
 msgstr "nutrient levels"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrient_levels_s"
 msgid "nutrient level"
 msgstr "nutrient level"
 
-msgctxt "nutriments_p"
-msgid "nutriments"
-msgstr "nutrients"
-
-msgctxt "nutriments_products"
-msgid "Products that contain the nutriment %s"
-msgstr "Products that contain the nutrient %s"
-
-msgctxt "nutriments_s"
-msgid "nutriment"
-msgstr "nutrient"
-
-msgctxt "nutriments_without_products"
-msgid "Products that do not contain the nutriment %s"
-msgstr "Products that do not contain the nutrient %s"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_alt"
 msgid "Nutrition facts"
 msgstr "Nutrition facts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data"
 msgid "Nutrition facts"
 msgstr "Nutrition facts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_average"
 msgid ""
 "Average nutrition facts for the %d products of the %s category for which "
@@ -1733,26 +1968,22 @@ msgstr ""
 "Average nutrition facts for the %d products of the %s category for which "
 "nutrition facts are known (out of %d products)."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_compare_percent"
 msgid "% of difference"
 msgstr "% of difference"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_compare_value"
 msgid "value for 100 g / 100 ml"
 msgstr "value for 100 g / 100 ml"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_comparison_with_categories"
 msgid "Comparison to average values of products in the same category:"
 msgstr "Comparison to average values of products in the same category:"
 
-msgctxt "nutrition_data_comparison_with_categories_note"
-msgid ""
-"Please note: for each nutriment, the average is computed for products for "
-"which the nutriment quantity is known, not on all products of the category."
-msgstr ""
-"Please note: for each nutrient, the average is computed for products for "
-"which the nutrient quantity is known, not on all products of the category."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_note"
 msgid ""
 "If the picture is sufficiently sharp and level, nutrition facts can be "
@@ -1761,84 +1992,84 @@ msgstr ""
 "If the picture is sufficiently sharp and level, nutrition facts can be "
 "automatically extracted from the picture."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_10"
 msgid "10th centile"
 msgstr "10th centile"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_100g"
 msgid "for 100 g / 100 ml"
 msgstr "for 100 g / 100 ml"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_5"
 msgid "5<sup>th</supe> centile"
 msgstr "5<sup>th</supe> centile"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_50"
 msgid "Median"
 msgstr "Median"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_90"
 msgid "90th centile"
 msgstr "90th centile"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_95"
 msgid "95<sup>th</supe> centile"
 msgstr "95<sup>th</supe> centile"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_max"
 msgid "Maximum"
 msgstr "Maximum"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_mean"
 msgid "Mean"
 msgstr "Mean"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_min"
 msgid "Minimum"
 msgstr "Minimum"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_serving"
 msgid "per serving"
 msgstr "per serving"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_per_std"
 msgid "Standard deviation"
 msgstr "Standard deviation"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_data_table"
 msgid "Nutrition facts"
 msgstr "Nutrition facts"
 
-msgctxt "nutrition_data_table_note"
-msgid ""
-"The table lists by default nutriments that are often specified. Leave the "
-"field blank if it's not on the label.<br/>You can add extra nutriments "
-"(vitamins, minerals, cholesterol etc.)\n"
-"by typing the first letters of their name in the last row of the table."
-msgstr ""
-"The table lists by default nutrients that are often specified. Leave the "
-"field blank if it's not on the label.<br/>You can add extra nutrients "
-"(vitamins, minerals, cholesterol etc.)\n"
-"by typing the first letters of their name in the last row of the table."
-
-msgctxt "nutrition_data_table_sub"
-msgid "-"
-msgstr "-"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_grades_p"
 msgid "Nutrition grades"
 msgstr "Nutrition grades"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "nutrition_grades_s"
 msgid "Nutrition grade"
 msgstr "Nutrition grade"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "og_image_url"
 msgid ""
 "http://world.openfoodfacts.org/images/misc/openfoodfacts-logo-en-356.png"
 msgstr ""
 "http://world.openfoodfacts.org/images/misc/openfoodfacts-logo-en-356.png"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "on_the_blog_content"
 msgid ""
 "<p>To learn more about <<site_name>>, visit <a "
@@ -1849,10 +2080,12 @@ msgstr ""
 "href=\"http://en.blog.openfoodfacts.org\">our blog</a>!</p>\n"
 "<p>Recent news:</p>\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "on_the_blog_title"
 msgid "News"
 msgstr "News"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "openfoodhunt_points"
 msgid ""
 "It's <a href=\"/open-food-hunt-2015\">Open Food Hunt</a> on <<site_name>> "
@@ -1867,194 +2100,249 @@ msgstr ""
 "Explorer points for products they add and Ambassador points for new "
 "contributors they recruit. Points are updated every 30 minutes."
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "or"
 msgid "or:"
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins"
 msgid "Origin of ingredients"
 msgstr "Origin of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_example"
 msgid "California, USA"
 msgstr "California, USA"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_note_xxx"
 msgid "Indicate the origin of ingredients"
 msgstr "Indicate the origin of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_p"
 msgid "origins of ingredients"
 msgstr "origins of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_products"
 msgid "Products with ingredients originating from %s"
 msgstr "Products with ingredients originating from %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_s"
 msgid "origin of ingredients"
 msgstr "origin of ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_tagsinput"
 msgid "add an origin"
 msgstr "add an origin"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "origins_without_products"
 msgid "Products without ingredients originating from %s"
 msgstr "Products without ingredients originating from %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging"
 msgid "Packaging"
 msgstr "Packaging"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_example"
 msgid "Fresh, Canned, Frozen, Bottle, Box, Glass, Plastic..."
 msgstr "Fresh, Canned, Frozen, Bottle, Box, Glass, Plastic..."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_note"
 msgid "Packaging type, format, material"
 msgstr "Packaging type, format, material"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_p"
 msgid "packaging"
 msgstr "packaging"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_products"
 msgid "Products with a %s packaging"
 msgstr "Products with a %s packaging"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_s"
 msgid "packaging"
 msgstr "packaging"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_tagsinput"
 msgid "add a type, shape or material"
 msgstr "add a type, shape or material"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "packaging_without_products"
 msgid "Products without a %s packaging"
 msgstr "Products without a %s packaging"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "page_x"
 msgid "Page %d"
 msgstr "Page %d"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "page_x_out_of_y"
 msgid "Page %d out of %d."
 msgstr "Page %d out of %d."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pages"
 msgid "Pages:"
 msgstr "Pages:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "password"
 msgid "Password"
 msgstr "Password"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "password_confirm"
 msgid "Confirm password"
 msgstr "Confirm password"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "periods_after_opening"
 msgid "Period of time after opening"
 msgstr "Period of time after opening"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "periods_after_opening_note"
 msgid "Found in an open container logo with a number of months: e.g. 12 M"
 msgstr "Found in an open container logo with a number of months: e.g. 12 M"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "periods_after_opening_p"
 msgid "Periods after opening"
 msgstr "Periods after opening"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "periods_after_opening_s"
 msgid "Period after opening"
 msgstr "Period after opening"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "photographers_p"
 msgid "photographers"
 msgstr "photographers"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "photographers_s"
 msgid "photographer"
 msgstr "photographer"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_1"
 msgid "PNNS groups 1"
 msgstr "PNNS groups 1"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_1_p"
 msgid "PNNS groups 1"
 msgstr "PNNS groups 1"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_1_s"
 msgid "PNNS group 1"
 msgstr "PNNS group 1"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_2"
 msgid "PNNS groups 2"
 msgstr "PNNS groups 2"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_2_p"
 msgid "PNNS groups 2"
 msgstr "PNNS groups 2"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "pnns_groups_2_s"
 msgid "PNNS group 2"
 msgstr "PNNS group 2"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_all_countries"
 msgid "There are %d Explorers and %d Ambassadors."
 msgstr "There are %d Explorers and %d Ambassadors."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_all_users"
 msgid ""
 "There are Explorers for %d countries and Ambassadors for %d countries."
 msgstr ""
 "There are Explorers for %d countries and Ambassadors for %d countries."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_country"
 msgid "%s has %d Explorers and %d Ambassadors."
 msgstr "%s has %d Explorers and %d Ambassadors."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_ranking"
 msgid "Ranking"
 msgstr "Ranking"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_ranking_users_and_countries"
 msgid "Ranking of contributors and countries"
 msgstr "Ranking of contributors and countries"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "points_user"
 msgid ""
 "%s is an Explorer for %d countries and an Ambassador for %d countries."
 msgstr ""
 "%s is an Explorer for %d countries and an Ambassador for %d countries."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "previous"
 msgid "Previous"
 msgstr "Previous"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_add_nutrient"
 msgid "Add a nutrient"
 msgstr "Add a nutrient"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_added"
 msgid "Product added on"
 msgstr "Product added on"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_changes_saved"
 msgid "Changes saved."
 msgstr "Changes saved."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_characteristics"
 msgid "Product characteristics"
 msgstr "Product characteristics"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "product_created"
 msgid "Product created"
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_description"
 msgid ""
 "Ingredients, allergens, additives, nutrition facts, labels, origin of "
@@ -2063,26 +2351,32 @@ msgstr ""
 "Ingredients, allergens, additives, nutrition facts, labels, origin of "
 "ingredients and information on product %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_image"
 msgid "Product picture"
 msgstr "Product picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_image_with_barcode"
 msgid "Picture with barcode:"
 msgstr "Picture with barcode:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_current_image"
 msgid "Current image:"
 msgstr "Current image:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_deleting_images"
 msgid "Deleting images"
 msgstr "Deleting images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_extract_ingredients"
 msgid "Extract the ingredients from the picture"
 msgstr "Extract the ingredients from the picture"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_extracted_ingredients_nok"
 msgid ""
 "Ingredients text could not be extracted. Try with a sharper image, with "
@@ -2091,6 +2385,7 @@ msgstr ""
 "Ingredients text could not be extracted. Try with a sharper image, with "
 "higher resolution or a better framing of the text."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_extracted_ingredients_ok"
 msgid ""
 "Ingredients text has been extracted. Text recognition is not perfect, so "
@@ -2099,22 +2394,22 @@ msgstr ""
 "Ingredients text has been extracted. Text recognition is not perfect, so "
 "please check the text below and correct errors if needed."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_extracting_ingredients"
 msgid "Extracting ingredients"
 msgstr "Extracting ingredients"
 
-msgctxt "product_js_image_normalize"
-msgid "Normalize colors"
-msgstr "Normalise colours"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_open_full_size_image"
 msgid "Open the picture in original size in a new windows"
 msgstr "Open the picture in original size in a new windows"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_received"
 msgid "Image received"
 msgstr "Image received"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_rotate_and_crop"
 msgid ""
 "Rotate the image if necessary, then click and drag to select the interesting "
@@ -2123,58 +2418,76 @@ msgstr ""
 "Rotate the image if necessary, then click and drag to select the interesting "
 "zone:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_rotate_left"
 msgid "Rotate left"
 msgstr "Rotate left"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_rotate_right"
 msgid "Rotate right"
 msgstr "Rotate right"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_save"
 msgid "Validate and/or resize image"
 msgstr "Validate and/or resize image"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_saved"
 msgid "Image saved"
 msgstr "Image saved"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_saving"
 msgid "Saving image"
 msgstr "Saving image"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_upload_error"
 msgid "Error while uploading image"
 msgstr "Error while uploading image"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_image_white_magic"
 msgid "Photo on white background: try to remove the background"
 msgstr "Photo on white background: try to remove the background"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_images_delete_error"
 msgid "Errors while deleting images"
 msgstr "Errors while deleting images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_images_deleted"
 msgid "Images deleted"
 msgstr "Images deleted"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_images_move_error"
 msgid "Errors while moving images"
 msgstr "Errors while moving images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_images_moved"
 msgid "Images moved"
 msgstr "Images moved"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_moving_images"
 msgid "Moving images"
 msgstr "Moving images"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_upload_image"
 msgid "Add a picture"
 msgstr "Add a picture"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "product_js_upload_image_note"
 msgid ""
 "→ With Chrome, Firefox and Safari, you can select multiple pictures "
@@ -2182,94 +2495,117 @@ msgid ""
 "the Ctrl key pressed to add them all in one shot."
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_js_uploading_image"
 msgid "Uploading image"
 msgstr "Uploading image"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_last_edited"
 msgid "Last edit of product page on"
 msgstr "Last edit of product page on"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_name"
 msgid "Product name"
 msgstr "Product name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "product_name_example"
 msgid "Kinder Bueno White"
 msgstr "Kinder Bueno White"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products"
 msgid "products"
 msgstr "products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products_stats"
 msgid "Evolution of the number of products on <<site_name>>"
 msgstr "Evolution of the number of products on <<site_name>>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products_stats_completed_t"
 msgid "Products with complete information"
 msgstr "Products with complete information"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products_stats_created_t"
 msgid "Products"
 msgstr "Products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products_with_nutriments"
 msgid "with nutrition facts"
 msgstr "with nutrition facts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "products_you_edited"
 msgid "Products you added or edited"
 msgstr "Products you added or edited"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places"
 msgid "City, state and country where purchased"
 msgstr "City, state and country where purchased"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_note"
 msgid "Indicate where you bought or saw the product (at least the country)"
 msgstr "Indicate where you bought or saw the product (at least the country)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_p"
 msgid "purchase places"
 msgstr "purchase places"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_products"
 msgid "Products sold in %s"
 msgstr "Products sold in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_s"
 msgid "purchase place"
 msgstr "purchase place"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_tagsinput"
 msgid "add a place"
 msgstr "add a place"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "purchase_places_without_products"
 msgid "Products not sold in %s"
 msgstr "Products not sold in %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "quantity"
 msgid "Quantity"
 msgstr "Quantity"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "quantity_example"
 msgid "2 l, 250 g, 1 kg, 25 cl, 6 fl oz, 1 pound"
 msgstr "2 l, 250 g, 1 kg, 25 cl, 6 fl oz, 1 pound"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "remember_me"
 msgid "Remember me"
 msgstr "Remember me"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "remember_purchase_places_and_stores"
 msgid "Remember the place of purchase and store for the next product adds"
 msgstr "Remember the place of purchase and store for the next product adds"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password"
 msgid "Reset password"
 msgstr "Reset password"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_email_body"
 msgid ""
 "Hello <NAME>,\n"
@@ -2304,20 +2640,24 @@ msgstr ""
 "Stephane\n"
 "http://openfoodfacts.org\n"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_email_subject"
 msgid "Reset of your password on <<site_name>>"
 msgstr "Reset of your password on <<site_name>>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_reset"
 msgid ""
 "Your password has been changed. You can now log-in with this password."
 msgstr ""
 "Your password has been changed. You can now log-in with this password."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_reset_msg"
 msgid "Enter a new password."
 msgstr "Enter a new password."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_send_email"
 msgid ""
 "An email with a link to reset your password has been sent to the e-mail "
@@ -2326,6 +2666,7 @@ msgstr ""
 "An email with a link to reset your password has been sent to the e-mail "
 "address associated with your account."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "reset_password_send_email_msg"
 msgid ""
 "If you have forgotten your password, fill-in your username or e-mail address "
@@ -2334,58 +2675,72 @@ msgstr ""
 "If you have forgotten your password, fill-in your username or e-mail address "
 "to receive instructions for resetting your password."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "risk_level"
 msgid "Risk"
 msgstr "Risk"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "risk_level_0"
 msgid "To be completed"
 msgstr "To be completed"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "risk_level_1"
 msgid "Low risks"
 msgstr "Low risks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "risk_level_2"
 msgid "Moderate risks"
 msgstr "Moderate risks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "risk_level_3"
 msgid "High risks"
 msgstr "High risks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "salt_equivalent"
 msgid "salt equivalent"
 msgstr "salt equivalent"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "save"
 msgid "Save"
 msgstr "Save"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "saved"
 msgid "Saved."
 msgstr "Saved."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "saving"
 msgid "Saving."
 msgstr "Saving."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search"
 msgid "Search"
 msgstr "Search"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_a_product_placeholder"
 msgid "Search a product"
 msgstr "Search a product"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_button"
 msgid "Search"
 msgstr "Search"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_contains"
 msgid "contains"
 msgstr "contains"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_criteria"
 msgid ""
 "Select products with specific brands, categories, labels, origins of "
@@ -2394,54 +2749,67 @@ msgstr ""
 "Select products with specific brands, categories, labels, origins of "
 "ingredients, manufacturing places etc."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_description_opensearch"
 msgid "Open Food Facts product search"
 msgstr "Open Food Facts product search"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_does_not_contain"
 msgid "does not contain"
 msgstr "does not contain"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_download_button"
 msgid "Download"
 msgstr "Download"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_download_choice"
 msgid "Download results"
 msgstr "Download results"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_download_results"
 msgid "Download results in CSV format (Excel, OpenOffice)"
 msgstr "Download results in CSV format (Excel, OpenOffice)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_download_results_description"
 msgid "Character set: Unicode (UTF-8)). Separator: tabulation (tab)."
 msgstr "Character set: Unicode (UTF-8)). Separator: tabulation (tab)."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_edit"
 msgid "Change search criteria"
 msgstr "Change search criteria"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_flatten_tags"
 msgid "(Optional) - Create a column for every:"
 msgstr "(Optional) - Create a column for every:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_generate_graph"
 msgid "Generate graph"
 msgstr "Generate graph"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_generate_map"
 msgid "Generate the map"
 msgstr "Generate the map"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph"
 msgid "Graph"
 msgstr "Graph"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_2_axis"
 msgid "Scatter plot"
 msgstr "Scatter plot"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_blog"
 msgid ""
 "<p>→ learn more about <<site_name>> graphs: <a "
@@ -2452,10 +2820,12 @@ msgstr ""
 "href=\"http://fr.blog.openfoodfacts.org/news/des-graphiques-en-3-"
 "clics\">Graphs in 3 clicks</a> (blog).</p>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_choice"
 msgid "Results on a graph"
 msgstr "Results on a graph"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_instructions"
 msgid ""
 "Select what you want to graph on the horizontal axis to obtain a histogram, "
@@ -2466,140 +2836,142 @@ msgstr ""
 "or select two axis to\n"
 "get a cloud of products (scatter plot)."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_link"
 msgid ""
 "Permanent link to this graph, shareable by e-mail and on social networks"
 msgstr ""
 "Permanent link to this graph, shareable by e-mail and on social networks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_note"
 msgid ""
 "The graph will show only products for which displayed values are known."
 msgstr ""
 "The graph will show only products for which displayed values are known."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_graph_title"
 msgid "Display results on a graph"
 msgstr "Display results on a graph"
 
-msgctxt "search_graph_warning"
-msgid ""
-"Note: this is a user generated graph. The title, represented products and "
-"axis of visualization have been chosen by the author of the graph."
-msgstr ""
-"Note: this is a user generated graph. The title, represented products and "
-"axis of visualisation have been chosen by the author of the graph."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "search_indifferent"
 msgid "Indifferent"
 msgstr "Indifferent"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_ingredients"
 msgid "Ingredients"
 msgstr "Ingredients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_link"
 msgid ""
 "Permanent link to these results, shareable by e-mail and on social networks"
 msgstr ""
 "Permanent link to these results, shareable by e-mail and on social networks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_list_choice"
 msgid "Results in a list of products"
 msgstr "Results in a list of products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_map"
 msgid "Map"
 msgstr "Map"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_map_choice"
 msgid "Results on a map"
 msgstr "Results on a map"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_map_link"
 msgid ""
 "Permanent link to this map, shareable by e-mail and on social networks"
 msgstr ""
 "Permanent link to this map, shareable by e-mail and on social networks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_map_note"
 msgid ""
 "The map will show only products for which the production place is known."
 msgstr ""
 "The map will show only products for which the production place is known."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_map_title"
 msgid "Display results on a map"
 msgstr "Display results on a map"
 
-msgctxt "search_nutriment"
-msgid "choose a nutriment..."
-msgstr "choose a nutrient..."
-
-msgctxt "search_nutriments"
-msgid "Nutriments"
-msgstr "Nutrients"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "search_or"
 msgid "or"
 msgstr "or"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_page_size"
 msgid "Results per page"
 msgstr "Results per page"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_products"
 msgid "Products search"
 msgstr "Products search"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_results"
 msgid "Search results"
 msgstr "Search results"
 
-msgctxt "search_series"
-msgid "Use a different color for the following products:"
-msgstr "Use a different colour for the following products:"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_default"
 msgid "Other products"
 msgstr "Other products"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_fairtrade"
 msgid "Fair trade"
 msgstr "Fair trade"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_fairtrade_label"
 msgid "fair-trade"
 msgstr "fair-trade"
 
-msgctxt "search_series_nutrition_grades"
-msgid "Use nutrition grades colors"
-msgstr "Use nutrition grades colours"
-
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_organic"
 msgid "Organic"
 msgstr "Organic"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_organic_label"
 msgid "organic"
 msgstr "organic"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_series_with_sweeteners"
 msgid "With sweeteners"
 msgstr "With sweeteners"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_tag"
 msgid "choose a criterion..."
 msgstr "choose a criterion..."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_tags"
 msgid "Criteria"
 msgstr "Criteria"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_terms"
 msgid "Search terms"
 msgstr "Search terms"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_terms_note"
 msgid ""
 "Search for words present in the product name, generic name, brands, "
@@ -2608,82 +2980,101 @@ msgstr ""
 "Search for words present in the product name, generic name, brands, "
 "categories, origins and labels"
 
-msgctxt "search_title"
-msgid "Search a product, brand, ingredient, nutriment etc."
-msgstr "Search a product, brand, ingredient, nutrient etc."
-
+# (pofilter) unchanged: Consider translating
 msgctxt "search_title_graph"
 msgid "Results graph"
 msgstr "Results graph"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_title_map"
 msgid "Results map"
 msgstr "Results map"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_tools"
 msgid "Search tools"
 msgstr "Search tools"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_value"
 msgid "value"
 msgstr "value"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_with"
 msgid "With"
 msgstr "With"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "search_without"
 msgid "Without"
 msgstr "Without"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "see_product_page"
 msgid "See the product page"
 msgstr "See the product page"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "select_country"
 msgid "Country"
 msgstr "Country"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "select_lang"
 msgid "Language"
 msgstr "Language"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "send_image"
 msgid "Send a picture..."
 msgstr "Send a picture..."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "send_image_error"
 msgid "Upload error"
 msgstr "Upload error"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sending_image"
 msgid "Sending image"
 msgstr "Sending image"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "serving_size"
 msgid "Serving size"
 msgstr "Serving size"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "serving_size_example"
 msgid "60 g, 12 oz, 20cl, 2 fl oz"
 msgstr "60 g, 12 oz, 20cl, 2 fl oz"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "session_title"
 msgid "Sign-in"
 msgstr "Sign-in"
 
+# (pofilter) untranslated: Checks whether a string has been translated at all.
+# 
+#         This check is really only useful if you want to extract untranslated
+#         strings so that they can be translated independently of the main work.
+#         
 msgctxt "share"
 msgid "Share"
 msgstr ""
 
+# (pofilter) unchanged: Consider translating
 msgctxt "show_category_stats"
 msgid "Show detailed stats"
 msgstr "Show detailed stats"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "show_category_stats_details"
 msgid "standard deviation, minimum, maximum, 10th and 90th percentiles"
 msgstr "standard deviation, minimum, maximum, 10th and 90th percentiles"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "signin_before_submit"
 msgid ""
 "If you already have an account on <SITE>, please sign-in before filling this "
@@ -2692,10 +3083,12 @@ msgstr ""
 "If you already have an account on <SITE>, please sign-in before filling this "
 "form."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "signout"
 msgid "Sign-out"
 msgstr "Sign-out"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "site_description"
 msgid ""
 "A collaborative, free and open database of ingredients, nutrition facts and "
@@ -2704,102 +3097,127 @@ msgstr ""
 "A collaborative, free and open database of ingredients, nutrition facts and "
 "information on food products from around the world"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "site_name"
 msgid "Open Food Facts"
 msgstr "Open Food Facts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sort_by"
 msgid "Sort by"
 msgstr "Sort by"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sort_created_t"
 msgid "Add date"
 msgstr "Add date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sort_modified_t"
 msgid "Edit date"
 msgstr "Edit date"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sort_popularity"
 msgid "Popularity"
 msgstr "Popularity"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "sort_product_name"
 msgid "Product name"
 msgstr "Product name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "state"
 msgid "State"
 msgstr "State"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "states_p"
 msgid "states"
 msgstr "states"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "states_s"
 msgid "state"
 msgstr "state"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores"
 msgid "Stores"
 msgstr "Stores"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_note"
 msgid "Name of the shop or supermarket chain"
 msgstr "Name of the shop or supermarket chain"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_p"
 msgid "stores"
 msgstr "stores"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_products"
 msgid "Products sold at %s"
 msgstr "Products sold at %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_s"
 msgid "store"
 msgstr "store"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_tagsinput"
 msgid "add a store"
 msgstr "add a store"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "stores_without_products"
 msgid "Products not bought at %s"
 msgstr "Products not bought at %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "subscribe"
 msgid "Subscribe"
 msgstr "Subscribe"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "tag_belongs_to"
 msgid "Belongs to:"
 msgstr "Belongs to:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "tag_contains"
 msgid "Contains:"
 msgstr "Contains:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "tag_weblinks"
 msgid "Weblinks"
 msgstr "Weblinks"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "tagstable_filtered"
 msgid "out of _MAX_"
 msgstr "out of _MAX_"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "tagstable_search"
 msgid "Search:"
 msgstr "Search:"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "traces"
 msgid "Traces"
 msgstr "Traces"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "traces_example"
 msgid "Milk, Gluten, Nuts"
 msgstr "Milk, Gluten, Nuts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "traces_note"
 msgid ""
 "Indicate ingredients from mentions like \"May contain traces of\", \"Made in "
@@ -2808,106 +3226,132 @@ msgstr ""
 "Indicate ingredients from mentions like \"May contain traces of\", \"Made in "
 "a factory that also uses\" etc."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "traces_p"
 msgid "traces"
 msgstr "traces"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "traces_s"
 msgid "trace"
 msgstr "trace"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "twitter"
 msgid "Twitter username (optional)"
 msgstr "Twitter username (optional)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "twitter_account"
 msgid "OpenFoodFacts"
 msgstr "OpenFoodFacts"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "unknown"
 msgid "Unknown"
 msgstr "Unknown"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "unknown_nutrients_p"
 msgid "unknown nutrients"
 msgstr "unknown nutrients"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "unknown_nutrients_s"
 msgid "unknown nutrient"
 msgstr "unknown nutrient"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "unsubscribe"
 msgid "Unsubscribe"
 msgstr "Unsubscribe"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "unsubscribe_info"
 msgid "You can unsubscribe from the lists at any time."
 msgstr "You can unsubscribe from the lists at any time."
 
+# (pofilter) unchanged: Consider translating
 msgctxt "userid_or_email"
 msgid "Username or e-mail address: "
 msgstr "Username or e-mail address: "
 
+# (pofilter) unchanged: Consider translating
 msgctxt "username"
 msgid "User name"
 msgstr "User name"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "username_info"
 msgid "(non-accented letters, digits and/or dashes)"
 msgstr "(non-accented letters, digits and/or dashes)"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "username_or_email"
 msgid "Username or email address"
 msgstr "Username or email address"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_add_products"
 msgid "Products that were added by the user %s"
 msgstr "Products that were added by the user %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_add_without_products"
 msgid "Products that were not added by the user %s"
 msgstr "Products that were not added by the user %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_edit_products"
 msgid "Products that were edited by the user %s"
 msgstr "Products that were edited by the user %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_edit_without_products"
 msgid "Products that were not edited by the user %s"
 msgstr "Products that were not edited by the user %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_p"
 msgid "contributors"
 msgstr "contributors"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_products"
 msgid "Products added by %s"
 msgstr "Products added by %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_s"
 msgid "contributor"
 msgstr "contributor"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "users_without_products"
 msgid "Products not added by %s"
 msgstr "Products not added by %s"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "view"
 msgid "view"
 msgstr "view"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "view_list_for_products_from_the_entire_world"
 msgid "View the list for matching products from the entire world"
 msgstr "View the list for matching products from the entire world"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "view_products_from_the_entire_world"
 msgid "View matching products from the entire world"
 msgstr "View matching products from the entire world"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "view_results_from_the_entire_world"
 msgid "View results from the entire world"
 msgstr "View results from the entire world"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "warning_3rd_party_content"
 msgid ""
 "Information and data must come from the product package and label (and not "
@@ -2920,10 +3364,12 @@ msgstr ""
 "pictures yourself.<br/>\n"
 "→ <a href=\"\">Why it matters</a>"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "website"
 msgid "Site or blog address"
 msgstr "Site or blog address"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "weekdays"
 msgid ""
 "['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', "
@@ -2932,6 +3378,7 @@ msgstr ""
 "['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', "
 "'Saturday']"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "windows_phone_app_badge"
 msgid ""
 "<img src=\"/images/misc/154x40_WP_Store_blk.png\" alt=\"Windows Phone "
@@ -2940,6 +3387,7 @@ msgstr ""
 "<img src=\"/images/misc/154x40_WP_Store_blk.png\" alt=\"Windows Phone "
 "Store\" width=\"154\" height=\"40\" />"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "windows_phone_app_link"
 msgid ""
 "http://www.windowsphone.com/en-us/store/app/openfoodfacts/5d7cf939-cfd9-4ac0-"
@@ -2948,10 +3396,12 @@ msgstr ""
 "http://www.windowsphone.com/en-us/store/app/openfoodfacts/5d7cf939-cfd9-4ac0-"
 "86d7-91b946f4df34"
 
+# (pofilter) unchanged: Consider translating
 msgctxt "you_are_connected_as_x"
 msgid "You are connected as %s."
 msgstr "You are connected as %s."
 
+# (pofilter) unchanged: Consider translating
 #~ msgctxt "login_register_content"
 #~ msgid ""
 #~ "<p>Sign-in to add or edit products.</p>\n"
@@ -2988,10 +3438,12 @@ msgstr "You are connected as %s."
 #~ "<p>Not registered yet? <a href=\"/cgi/user.pl\">Create your "
 #~ "account</a>.</p>\n"
 
+# (pofilter) unchanged: Consider translating
 #~ msgctxt "or"
 #~ msgid "or :"
 #~ msgstr "or :"
 
+# (pofilter) unchanged: Consider translating
 #~ msgctxt "product_js_upload_image_note"
 #~ msgid ""
 #~ "→ With Chrome, Firefox and Safari, you can select multipe pictures (product, "
