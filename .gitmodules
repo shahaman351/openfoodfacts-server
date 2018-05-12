@@ -1,0 +1,3 @@
+[submodule "Action-CircuitBreaker"]
+	path = Action-CircuitBreaker
+	url = https://github.com/hangy/Action-CircuitBreaker.git
